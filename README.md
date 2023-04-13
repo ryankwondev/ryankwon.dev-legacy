@@ -51,6 +51,21 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 
 ## 💡 Experience & Projects
 
+<details>
+<summary>Experience</summary>
+
+  ### Markdown
+</details>
+
+<details>
+<summary>Projects</summary>
+  
+  ### Realtime Han-river Water Temprature Twitter Bot 🌡
+  ### 소소한 주니어 콘퍼런스 (연사참여)
+  ### AWS Industry Week 2022
+  ### (...)
+</details>
+
 ## 🏆 Honors & Awards
 - 3rd Awards, Youth Engineering Leader Autonomous Car Contest, Hyundai Mobis, 2023.
 - Invention Enrichment Course, Seoul Science Park, Seoul Metropolitan Office of Education, 2022.
