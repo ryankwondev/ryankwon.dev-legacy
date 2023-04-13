@@ -51,8 +51,7 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 
 ## 💡 Experience & Projects
 
-<details>
-<summary><h3>Experience</h3></summary>
+<details><summary><h3>Experience</h3></summary>
 
 <h4>MODUPOP: ML + QC (2023.04) <a href="https://festa.io/events/3325">🔗</a></h4>
 
@@ -76,8 +75,7 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 
 </details>
 
-<details>
-<summary><h3>Projects</h3></summary>
+<details><summary><h3>Projects</h3></summary>
 
 <h4>Twitter Han-river Water Temprature Bot (2020.12)</h4>
 
