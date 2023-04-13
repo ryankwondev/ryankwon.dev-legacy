@@ -54,16 +54,51 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 <details>
 <summary>Experience</summary>
 
-  ### Markdown
+  ### MODUPOP: ML + QC (2023.04) [🔗](https://festa.io/events/3325)
+
+  ### BespinGlobal OpsNow360 (2023.02) [🔗](https://event.opsnow.com/opsnow360-conference/)
+  
+  ### MODUPOP: JAX/Flax (2023.02) [🔗](https://festa.io/events/3118)
+  
+  ### Stripe Product Masterclass for SaaS & Marketplace (2023.01) [SaaS🔗](https://event-us.kr/stripe/event/54391) [Marketplace🔗](https://event-us.kr/stripe/event/54392)
+  
+  ### IMPACT LOUNGE - Invited Speaker (2022.12) [🔗](https://lounge.connect-impact.org/)
+  
+  ### Python Korea End of year Party (2022.12) [🔗](https://festa.io/events/2889)
+  
+  ### How Startups go global with Stripe (2022.11) [🔗](https://event-us.kr/stripe/event/50555)
+  
+  ### AWS Industry Week (2022.11) [🔗](https://aws.amazon.com/ko/events/industry-week/)
+  
+  ### The Junior Conference: Shot 1 - Invited Speaker (2022.07) [🔗](https://festa.io/events/2433)
+  
+  ### WoowaBro's GoodJob Conference (2022.04) [🔗](https://story.baemin.com/goodjob/)
+  
 </details>
 
 <details>
 <summary>Projects</summary>
   
-  ### Realtime Han-river Water Temprature Twitter Bot 🌡
-  ### 소소한 주니어 콘퍼런스 (연사참여)
-  ### AWS Industry Week 2022
-  ### (...)
+  ### Twitter Han-river Water Temprature Bot (2020.12)
+  
+  ### IoT Welding Factory Manufacturing Execution System, Samsung H.I. (2021.05-2021.06)
+  
+  ### Art Centre Reservation System, Hana Academy Seoul (2022.06)
+  
+  ### Private Contents Cloud Deployment with NextCloud (2022.06)
+  
+  ### Product Recognition Service for Visually Impaired (2022.07)
+  
+  ### Exam Venue Inquiry System (2022.07)
+  
+  ### IoT Water Level Reporting System, Hana Academy Seoul (2022.08)
+  
+  ### Braillie Motion Graphics (2022.09)
+  
+  ### Modern World Map Quiz (2022.09-2022.10)
+  
+  ### Face Recognition Attendance System (2022.11)
+  
 </details>
 
 ## 🏆 Honors & Awards
