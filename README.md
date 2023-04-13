@@ -52,56 +52,62 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 ## 💡 Experience & Projects
 
 <details>
-<summary>Experience</summary>
+<summary><h3>Experience</h3></summary>
 
-### MODUPOP: ML + QC (2023.04) [🔗](https://festa.io/events/3325)
+<h4>MODUPOP: ML + QC (2023.04) <a href="https://festa.io/events/3325">🔗</a></h4>
 
-### BespinGlobal OpsNow360 (2023.02) [🔗](https://event.opsnow.com/opsnow360-conference/)
+<h4>BespinGlobal OpsNow360 (2023.02) <a href="https://event.opsnow.com/opsnow360-conference/">🔗</a></h4>
 
-### MODUPOP: JAX/Flax (2023.02) [🔗](https://festa.io/events/3118)
+<h4>MODUPOP: JAX/Flax (2023.02) <a href="https://festa.io/events/3118">🔗</a></h4>
 
-### Stripe Product Masterclass for SaaS & Marketplace (2023.01) [SaaS🔗](https://event-us.kr/stripe/event/54391) [Marketplace🔗](https://event-us.kr/stripe/event/54392)
+<h4>Stripe Product Masterclass for SaaS & Marketplace (2023.01) <a href="https://event-us.kr/stripe/event/54391">SaaS🔗</a> <a href="https://event-us.kr/stripe/event/54392">Marketplace🔗</a></h4>
 
-### IMPACT LOUNGE - Invited Speaker (2022.12) [🔗](https://lounge.connect-impact.org/)
+<h4>IMPACT LOUNGE - Invited Speaker (2022.12) <a href="https://lounge.connect-impact.org/">🔗</a></h4>
 
-### Python Korea End of year Party (2022.12) [🔗](https://festa.io/events/2889)
+<h4>Python Korea End of year Party (2022.12) <a href="https://festa.io/events/2889">🔗</a></h4>
 
-### How Startups go global with Stripe (2022.11) [🔗](https://event-us.kr/stripe/event/50555)
+<h4>How Startups go global with Stripe (2022.11) <a href="https://event-us.kr/stripe/event/50555">🔗</a></h4>
 
-### AWS Industry Week (2022.11) [🔗](https://aws.amazon.com/ko/events/industry-week/)
+<h4>AWS Industry Week (2022.11) <a href="https://aws.amazon.com/ko/events/industry-week/">🔗</a></h4>
 
-### The Junior Conference: Shot 1 - Invited Speaker (2022.07) [🔗](https://festa.io/events/2433)
+<h4>The Junior Conference: Shot 1 - Invited Speaker (2022.07) <a href="https://festa.io/events/2433">🔗</a></h4>
 
-### WoowaBro's GoodJob Conference (2022.04) [🔗](https://story.baemin.com/goodjob/)
-  
+<h4>WoowaBro's GoodJob Conference (2022.04) <a href="https://story.baemin.com/goodjob/">🔗</a></h4>
+
 </details>
 
 <details>
-<summary>Projects</summary>
-  
-### Twitter Han-river Water Temprature Bot (2020.12)
+<summary><h3>Projects</h3></summary>
 
-### IoT Welding Factory Manufacturing Execution System, Samsung H.I. (2021.05-2021.06)
+<h4>Twitter Han-river Water Temprature Bot (2020.12)</h4>
 
-### Art Centre Reservation System, Hana Academy Seoul (2022.06)
+<h4>IoT Welding Factory Manufacturing Execution System, Samsung H.I. (2021.05-2021.06)</h4>
 
-### Private Contents Cloud Deployment with NextCloud (2022.06)
+<h4>Art Centre Reservation System, Hana Academy Seoul (2022.06)</h4>
 
-### Product Recognition Service for Visually Impaired (2022.07)
+<h4>Private Contents Cloud Deployment with NextCloud (2022.06)</h4>
 
-### Exam Venue Inquiry System (2022.07)
+<h4>Product Recognition Service for Visually Impaired (2022.07)</h4>
 
-### IoT Water Level Reporting System, Hana Academy Seoul (2022.08)
+<h4>Exam Venue Inquiry System (2022.07)</h4>
 
-### Braillie Motion Graphics (2022.09)
+<h4>IoT Water Level Reporting System, Hana Academy Seoul (2022.08)</h4>
 
-### Modern World Map Quiz (2022.09-2022.10)
+<h4>Braillie Motion Graphics (2022.09)</h4>
 
-### Face Recognition Attendance System (2022.11)
-  
+<h4>Modern World Map Quiz (2022.09-2022.10)</h4>
+
+<h4>Face Recognition Attendance System (2022.11)</h4>
+
 </details>
 
 ## 🏆 Honors & Awards
 - 3rd Awards, Youth Engineering Leader Autonomous Car Contest, Hyundai Mobis, 2023.
 - Invention Enrichment Course, Seoul Science Park, Seoul Metropolitan Office of Education, 2022.
 - Invited Speaker, Impact Lounge, 2022.
+
+---
+
+Copyright 2023. Ryan Donghan Kwon. All rights reserved.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fryankwon.dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
