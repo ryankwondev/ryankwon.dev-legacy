@@ -2,12 +2,12 @@
 
 <table border="0">
   <tr>
-    <td>Personal Email: kznm.develop(at)gmail.com</td>
-    <td>School Email: has_22017(at)hana.hs.kr</td>
+    <td>Personal Email: kznm.develop@gmail.com</td>
+    <td>School Email: has_22017@hana.hs.kr</td>
   </tr>
   <tr>
-    <td>Research Email: ryankwon(at)ieee.org</td>
-    <td>Work Email: ryankwon(at)algorix.io</td>
+    <td>Research Email: ryankwon@ieee.org</td>
+    <td>Work Email: ryankwon@algorix.io</td>
   </tr>
 </table>
 
