@@ -2,12 +2,12 @@
 
 <table border="0">
   <tr>
-    <td>Personal Email: kznm.develop@gmail.com</td>
-    <td>School Email: has_22017@hana.hs.kr</td>
+    <td>Personal Email: kznm.develop(at)gmail.com</td>
+    <td>School Email: has_22017(at)hana.hs.kr</td>
   </tr>
   <tr>
-    <td>Research Email: ryankwon@ieee.org</td>
-    <td>Work Email: ryankwon@algorix.io</td>
+    <td>Research Email: ryankwon(at)ieee.org</td>
+    <td>Work Email: ryankwon(at)algorix.io</td>
   </tr>
 </table>
 
@@ -40,13 +40,14 @@
 
 ## 📑 Research
 
-### Lightweight Syntax Structure for Describe Data to Transfer over Internet of Things (IoT) Devices
+  Ryan Donghan Kwon, Jun Seob Shin, Do Hyun Lim.“Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices.”Proceedings of the 25th Korea Conference on Software Engineering.(2023):193-197
 
-### Proposal of Lecicographical Sortable Unique Identifier to Replace Universal Unique Identifier (UUID) in Distributed Computing System
+  Ryan Donghan Kwon.“Proposal of Lexicographically Sortable Unique Identifier to replace Universal Unique Identifier (UUID) in Distributed Computing System.”Proceedings of the Korean Information Science Society Conference.(2022):1886-1888.
 
-### Implementation of CanSat for Information Gathering To Support Artillery Fire
+  Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak, Ha Neul Park, Ryan Donghan Kwon.“Implementation of CanSat for Information Gathering To Support Artillery Fire.”Proceedings of the Korean Society for Aeronautical and Space Sciences Conference.(2022):703-704.
 
 ## 💡 Experience
 
-## 🏆 Awards
-
+## 🏆 Honors & Awards
+- 3rd Awards, Youth Engineering Leader Autonomous Car Contest, Hyundai Mobis (2023).
+- Invention Enrichment Course, Seoul Science Park, Seoul Metropolitan Office of Education (2022).
