@@ -43,7 +43,7 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 
 ## 📑 Research
 
-  Ryan Donghan Kwon, Jun Seob Shin, Do Hyun Lim.“Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices.”Proceedings of the 25th Korea Conference on Software Engineering.(2023):193-197
+  Ryan Donghan Kwon, Jun Seob Shin, Do Hyun Lim.“Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices.”Proceedings of the 25th Korea Conference on Software Engineering.(2023):193-197.
 
   Ryan Donghan Kwon.“Proposal of Lexicographically Sortable Unique Identifier to replace Universal Unique Identifier (UUID) in Distributed Computing System.”Proceedings of the Korean Information Science Society Conference.(2022):1886-1888.
 
