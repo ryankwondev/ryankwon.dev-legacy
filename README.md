@@ -62,7 +62,7 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 
 <h4>Stripe Product Masterclass for SaaS & Marketplace (2023.01) <a href="https://event-us.kr/stripe/event/54391">SaaS🔗</a> <a href="https://event-us.kr/stripe/event/54392">Marketplace🔗</a></h4>
 
-<h4>IMPACT LOUNGE - Invited Speaker (2022.12) <a href="https://lounge.connect-impact.org/">🔗</a></h4>
+<h4>IMPACT LOUNGE - Speaker (2022.12) <a href="https://lounge.connect-impact.org/">🔗</a></h4>
 
 <h4>Python Korea End of year Party (2022.12) <a href="https://festa.io/events/2889">🔗</a></h4>
 
@@ -70,7 +70,7 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 
 <h4>AWS Industry Week (2022.11) <a href="https://aws.amazon.com/ko/events/industry-week/">🔗</a></h4>
 
-<h4>The Junior Conference: Shot 1 - Invited Speaker (2022.07) <a href="https://festa.io/events/2433">🔗</a></h4>
+<h4>The Junior Conference: Shot 1 - Speaker (2022.07) <a href="https://festa.io/events/2433">🔗</a></h4>
 
 <h4>WoowaBro's GoodJob Conference (2022.04) <a href="https://story.baemin.com/goodjob/">🔗</a></h4>
 
