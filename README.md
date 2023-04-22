@@ -79,9 +79,7 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 <details>
 <summary>Projects</summary>
 
-<h4>Twitter Han-river Water Temprature Bot (2020.12)</h4>
-
-<h4>IoT Welding Factory Manufacturing Execution System, Samsung H.I. (2021.05-2021.06)</h4>
+<h4>IoT Factory Manufacturing Execution System, Samsung H.I. (2021.05-2021.06)</h4>
 
 <h4>Art Centre Reservation System, Hana Academy Seoul (2022.06)</h4>
 
@@ -102,6 +100,7 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 </details>
 
 ## 🏆 Honors & Awards
+- Mentee, Youth Science Gifted Mentoring Program, The Korean Academy of Science and Technology, 2023.
 - 3rd Awards, Youth Engineering Leader Autonomous Car Contest, Hyundai Mobis, 2023.
 - Invention Enrichment Course, Seoul Science Park, Seoul Metropolitan Office of Education, 2022.
 - Invited Speaker, Impact Lounge, 2022.
