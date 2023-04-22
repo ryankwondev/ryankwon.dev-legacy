@@ -43,11 +43,17 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 
 ## 📑 Research
 
-  Ryan Donghan Kwon, Jun Seob Shin, Do Hyun Lim.“Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices.”Proceedings of the 25th Korea Conference on Software Engineering.(2023):193-197.
+### Adaptive Partition Sort: Developing an Efficient Sorting Algorithm by Combining the Strengths of Quick Sort and Merge Sort
+with Do Hyun Lim, Proceedings of the Korean Information Science Society Conference (2023), nmk-nmk. 
 
-  Ryan Donghan Kwon.“Proposal of Lexicographically Sortable Unique Identifier to replace Universal Unique Identifier (UUID) in Distributed Computing System.”Proceedings of the Korean Information Science Society Conference.(2022):1886-1888.
+### Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices,
+with Jun Seob Shin and Do Hyun Lim, Proceedings of the 25th Korea Conference on Software Engineering (2023), 193-197. 
+ 
+### Proposal of Lexicographically Sortable Unique Identifier to replace Universal Unique Identifier (UUID) in Distributed Computing System,
+Proceedings of the Korean Information Science Society Conference (2022), 1886-1888. 
 
-  Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak, Ha Neul Park, Ryan Donghan Kwon.“Implementation of CanSat for Information Gathering To Support Artillery Fire.”Proceedings of the Korean Society for Aeronautical and Space Sciences Conference.(2022):703-704.
+### Implementation of CanSat for Information Gathering To Support Artillery Fire,
+with Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak and Ha Neul Park, Proceedings of the Korean Society for Aeronautical and Space Sciences Conference (2022), 703-704. 
 
 ## 💡 Experience & Projects
 
