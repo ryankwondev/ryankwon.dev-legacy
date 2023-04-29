@@ -1,6 +1,6 @@
 # Shor's Algorithm
 
-This example provides an implementation of the Shor's algorithm using the Amazon Braket SDK. Shor's algorithm is used to find prime factors of an integer. On a quantum computer, Shor's algorithm runs in polynomial time and is almost exponentially faster than the most efficient known classical factoring algorithm. The efficiency of Shor's algorithm is due to the efficiency of the Quantum Fourier transform, Quantum Phase estimation and modular exponentiation by repeated squarings. In this notebook, you implement the Shor's algorithm in code using the Amazon Braket SDK and run a simple example of factoring 15.
+This code provides an implementation of the Shor's algorithm using the Amazon Braket SDK. Shor's algorithm is used to find prime factors of an integer. On a quantum computer, Shor's algorithm runs in polynomial time and is almost exponentially faster than the most efficient known classical factoring algorithm. The efficiency of Shor's algorithm is due to the efficiency of the Quantum Fourier transform, Quantum Phase estimation and modular exponentiation by repeated squarings. In this notebook, you implement the Shor's algorithm in code using the Amazon Braket SDK and run a simple example of factoring 15.
 
 # References 
 
@@ -24,12 +24,11 @@ from braket.experimental.algorithms.shors.shors import (
 
 
 ```python
-N = 15 # Integer to factor (currently 15, 21, 35 work)
+N = 15 # Integer to factor 
 a = 7  # Any integer that satisfies 1 < a < N and gcd(a, N) = 1.
 
 
 shors_circuit = shors_algorithm(N, a)
-
 ```
 
 # Run on a local simulator
@@ -66,20 +65,23 @@ guessed_factors = get_factors_from_results(output, N, a)
     Non-trivial factors found are : {3, 5}
 
 
-# Run on a managed simulator
+# Run on a Quantum Computing Device (Rigetti's Aspen-M-3)
 
+Rigetti 양자 프로세서는 튜닝 가능한 초전도 큐비트를 기반으로 하는 범용 게이트 모델 머신입니다. Rigetti의 최신 Aspen-M 프로세서는 확장 가능한 다중 칩 기술을 기반으로 하며, 깊이와 넓이에 관계없이 전반적인 회로 충실도를 높이는 향상된 판독 기능을 갖추고 있습니다. Aspen M 시스템은 빠른 처리 시간, 각종 얽힘 게이트의 빠른 적용, 액티브 레지스터 재설정을 통한 빠른 샘플링, 그리고 파라메트릭 제어 기능을 포함합니다. Aspen 칩 토폴로지는 큐비트를 3중(가장자리에서는 2중)으로 연결한 8각형 구조이며, 개발자가 성능 향상을 위해 프로그램을 최적화하고 회로 깊이를 최소화할 수 있도록 CPHASE 및 XY 연결 게이트를 모두 지원하고 있습니다. Rigetti의 최적화 컴파일러 quil-c는 추상적인 양자 알고리즘을 Rigetti QPU에서 동작하는 네이티브 게이트들로 재구성하고 최적화된 회로 구현을 생성합니다. 이 게이트들은 큐비트 결맞음 시간(T1은 28µs, T2는 22µs) 내에 프로그램을 구동할 수 있도록 빠른 1Q 및 2Q 실행 시간(각각 40ns 및 220ns)을 제공합니다.
 
+- 하드웨어 공급자: Rigetti
+- 위치: California, USA
+- 큐비트: 79
+- 펄스 제어: 지원됨
 
 
 ```python
-# Use Braket SDK Cost Tracking to estimate the cost to run this example
 from braket.tracking import Tracker
 tracker = Tracker().start()
 ```
 
 
 ```python
-# managed_sim = AwsDevice("arn:aws:braket:::device/quantum-simulator/amazon/sv1")
 managed_sim = AwsDevice("arn:aws:braket:us-west-1::device/qpu/rigetti/Aspen-M-3")
 
 output = run_shors_algorithm(shors_circuit, managed_sim)
