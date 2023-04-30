@@ -1,15 +1,9 @@
 # 🧑‍💻 Ryan Donghan Kwon
 
-<table border="0">
-  <tr>
-    <td>Personal Email: kznm.develop@gmail.com</td>
-    <td>School Email: has_22017@hana.hs.kr</td>
-  </tr>
-  <tr>
-    <td>Research Email: ryankwon@ieee.org</td>
-    <td>Work Email: ryankwon@algorix.io</td>
-  </tr>
-</table>
+- Personal: kznm.develop@gmail.com
+- Research: ryankwon@ieee.org (Prefer)
+- School: has_22017@hana.hs.kr
+- Work: ryankwon@algorix.io
 
 > Editing. This is an incomplete document.
 
@@ -44,16 +38,16 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 ## 📑 Research
 
 ### Adaptive Partition Sort: Developing an Efficient Sorting Algorithm by Combining the Strengths of Quick Sort and Merge Sort
-with Do Hyun Lim, Proceedings of the Korean Information Science Society Conference (2023), nmk-nmk. 
+with Do Hyun Lim, Proceedings of the KIISE Korea Computer Congress 2023 (2023), n-m. 
 
 ### Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices,
 with Jun Seob Shin and Do Hyun Lim, Proceedings of the 25th Korea Conference on Software Engineering (2023), 193-197. 
  
 ### Proposal of Lexicographically Sortable Unique Identifier to replace Universal Unique Identifier (UUID) in Distributed Computing System,
-Proceedings of the Korean Information Science Society Conference (2022), 1886-1888. 
+Proceedings of the KIISE Korea Software Congress 2022 (2022), 1886-1888. 
 
 ### Implementation of CanSat for Information Gathering To Support Artillery Fire,
-with Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak and Ha Neul Park, Proceedings of the Korean Society for Aeronautical and Space Sciences Conference (2022), 703-704. 
+with Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak and Ha Neul Park, Proceedings of The Korean Society for Aeronautical and Space Sciences Spring Conference (2022), 703-704. 
 
 ## 💡 Experience & Projects
 
