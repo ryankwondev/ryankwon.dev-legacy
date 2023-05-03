@@ -42,7 +42,7 @@ Student Member, [Computer Society](https://computer.org/), [Seoul Section](https
 Contributing Member(Voting Memberships).
 
 ### Korean Institute of Information Scientists and Engineers (2022-present)
-Student Member, Software Engineering Soceity.
+Student Member, Software Engineering Society.
 
 ## 📑 Research
 
