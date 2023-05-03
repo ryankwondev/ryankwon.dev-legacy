@@ -7,7 +7,7 @@ a {
   top: 0;
   left: 0;
   width: 100%;
-  height: 10px; /* 원하는 높이로 변경 */
+  height: 12px;
   background-image: linear-gradient(to right, #4481EB, #04BEFE);
   z-index: 1000;
 }
