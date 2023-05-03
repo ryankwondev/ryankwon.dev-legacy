@@ -38,6 +38,9 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 ### Institute of Electrical and Electronics Engineers (2023-present)
 Student Member, [Computer Society](https://computer.org/), [Seoul Section](https://site.ieee.org/seoul/).
 
+### Python Software Foundation (2022-present)
+Contributing Member(Voting Memberships).
+
 ### Korean Institute of Information Scientists and Engineers (2022-present)
 Student Member, Software Engineering Soceity.
 
