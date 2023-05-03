@@ -50,15 +50,15 @@ Student Member, Software Engineering Society.
   Ryan Donghan Kwon and Do Hyun Lim,
   Proceedings of the KIISE Korea Computer Congress (2023). 
 
-**Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices,**\
+**[Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices](http://sigsoft.or.kr/kcse2023/),**\
   Ryan Donghan Kwon, Jun Seob Shin and Do Hyun Lim,
   Proceedings of the 25th Korea Conference on Software Engineering (2023), 193-197. 
  
-**Proposal of Lexicographically Sortable Unique Identifier to replace Universal Unique Identifier (UUID) in Distributed Computing System,**\
+**[Proposal of Lexicographically Sortable Unique Identifier to replace Universal Unique Identifier (UUID) in Distributed Computing System](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224631),**\
   Ryan Donghan Kwon,
   Proceedings of the KIISE Korea Software Congress (2022), 1886-1888. 
 
-**Implementation of CanSat for Information Gathering To Support Artillery Fire,**\
+**[Implementation of CanSat for Information Gathering To Support Artillery Fire](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11180787),**\
   Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak, Ha Neul Park and Ryan Donghan Kwon,
   Proceedings of The Korean Society for Aeronautical and Space Sciences Spring Conference (2022), 703-704. 
 
