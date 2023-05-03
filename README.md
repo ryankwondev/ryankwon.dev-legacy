@@ -47,13 +47,13 @@ Student Member, Software Engineering Society.
 ## 📑 Research
 
 ### Adaptive Partition Sort: Developing an Efficient Sorting Algorithm by Combining the Strengths of Quick Sort and Merge Sort
-with Do Hyun Lim, Proceedings of the KIISE Korea Computer Congress 2023 (2023), n-m. 
+with Do Hyun Lim, Proceedings of the KIISE Korea Computer Congress (2023), n-m. 
 
 ### Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices,
 with Jun Seob Shin and Do Hyun Lim, Proceedings of the 25th Korea Conference on Software Engineering (2023), 193-197. 
  
 ### Proposal of Lexicographically Sortable Unique Identifier to replace Universal Unique Identifier (UUID) in Distributed Computing System,
-Proceedings of the KIISE Korea Software Congress 2022 (2022), 1886-1888. 
+Proceedings of the KIISE Korea Software Congress (2022), 1886-1888. 
 
 ### Implementation of CanSat for Information Gathering To Support Artillery Fire,
 with Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak and Ha Neul Park, Proceedings of The Korean Society for Aeronautical and Space Sciences Spring Conference (2022), 703-704. 
@@ -113,10 +113,11 @@ with Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak and Ha Neul Park, Proceedings of T
 -->
 
 ## 🏆 Honors & Awards
-- Mentee, Youth Science Gifted Mentoring Program, The Korean Academy of Science and Technology, 2023.
-- 3rd Awards, Youth Engineering Leader Autonomous Car Contest, Hyundai Mobis, 2023.
-- Invention Enrichment Course, Seoul Science Park, Seoul Metropolitan Office of Education, 2022.
-- Invited Speaker, Impact Lounge, 2022.
+- Mentee, Youth Science Gifted Mentoring Program, [The Korean Academy of Science and Technology](https://kast.or.kr/en/), 2023.
+- Scholars, Hansung Nobel Young·Gifted Scholars, [Hanseong Sonjaehan Scholarship Foundation](http://sonjaehan.org), 2023.
+- 3rd Awards, Youth Engineering Leader Autonomous Car Contest, [Hyundai Mobis](https://www.mobis.co.kr/en/index.do), 2023.
+- Invention Enrichment Course, [Seoul Science Park](https://ssp.sen.go.kr/), [Seoul Metropolitan Office of Education](https://english.sen.go.kr/english/index.do), 2022.
+- Invited Speaker, [Impact Lounge](https://lounge.connect-impact.org/), [IMPACT](https://connect-impact.org/) (2022).
 
 ---
 
