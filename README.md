@@ -1,4 +1,4 @@
-# 🧑‍💻 Ryan Donghan Kwon
+# ![Profile](/assets/profile-arte-2022.JPG){: .profile-image} Ryan Donghan Kwon
 
 - Personal: kznm.develop@gmail.com
 - Research: ryankwon@ieee.org
