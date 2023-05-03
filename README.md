@@ -8,19 +8,19 @@
 ## 🏫 Education
 
 ### [Hana Academy Seoul](https://eng.hana.hs.kr) (2022.03-present)
-- IT Club "Assembly" Vice President
-- Aerospace Club "Zyrospace" President
-- Finance Club "Greenrock" Vice President
-- Regional Connections Project, Technical Media Team Lead
-- International Symposium Steering Committee:
+- IT Club ***Assembly*** Vice President
+- Aerospace Club ***Zyrospace*** President
+- Finance Club ***Greenrock*** Vice President
+- ***Regional Connections Project***, Technical·Media Team Lead
+- ***International Symposium*** Steering Committee:
   - Operations Team Lead (2023)
   - Operations Team Video Media (2022)
 
-## 💼 Career
+## 💼 Employment
 
 ### Algorix (2022.06-present)
 Business Management & Operation, Backend and Cloud Engineering
-- Working as Founder, Chief Executive Officer.
+- Working as Founder and Backend Engineer.
 - Amazon Web Service, Python FastAPI, React.js, etc.
 
 ### The Coala (2021.06-2022.07)
@@ -44,7 +44,7 @@ Contributing Member(Voting Memberships).
 ### [Korean Institute of Information Scientists and Engineers](https://www.kiise.or.kr) (2022-present)
 Student Member, Software Engineering Society.
 
-## 📑 Research
+## 📑 Publications
 
 **Adaptive Partition Sort: Developing an Efficient Sorting Algorithm by Combining the Strengths of Quick Sort and Merge Sort,**\
   Ryan Donghan Kwon and Do Hyun Lim,
