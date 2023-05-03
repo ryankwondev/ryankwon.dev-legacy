@@ -1,13 +1,13 @@
 # 🧑‍💻 Ryan Donghan Kwon
 
 - Personal: kznm.develop@gmail.com
-- Research: ryankwon@ieee.org (Prefer)
+- Research: ryankwon@ieee.org
 - School: has_22017@hana.hs.kr
 - Work: ryankwon@algorix.io
 
 ## 🏫 Education
 
-### Hana Academy Seoul (2022.03-present)
+### [Hana Academy Seoul](https://eng.hana.hs.kr) (2022.03-present)
 - IT Club "Assembly" Vice President
 - Aerospace Club "Zyrospace" President
 - Finance Club "Greenrock" Vice President
@@ -35,13 +35,13 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 
 ## 👨‍🔬 Memberships
 
-### Institute of Electrical and Electronics Engineers (2023-present)
+### [Institute of Electrical and Electronics Engineers](https://www.ieee.org) (2023-present)
 Student Member, [Computer Society](https://computer.org/), [Seoul Section](https://site.ieee.org/seoul/).
 
-### Python Software Foundation (2022-present)
+### [Python Software Foundation](https://www.python.org/psf-landing/) (2022-present)
 Contributing Member(Voting Memberships).
 
-### Korean Institute of Information Scientists and Engineers (2022-present)
+### [Korean Institute of Information Scientists and Engineers](https://www.kiise.or.kr) (2022-present)
 Student Member, Software Engineering Society.
 
 ## 📑 Research
@@ -64,60 +64,38 @@ with Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak and Ha Neul Park, Proceedings of T
 
 <details>
 <summary>Experience</summary>
-
 <h4>MODUPOP: ML + QC (2023.04) <a href="https://festa.io/events/3325">🔗</a></h4>
-
 <h4>BespinGlobal OpsNow360 (2023.02) <a href="https://event.opsnow.com/opsnow360-conference/">🔗</a></h4>
-
 <h4>MODUPOP: JAX/Flax (2023.02) <a href="https://festa.io/events/3118">🔗</a></h4>
-
 <h4>Stripe Product Masterclass for SaaS & Marketplace (2023.01) <a href="https://event-us.kr/stripe/event/54391">SaaS🔗</a> <a href="https://event-us.kr/stripe/event/54392">Marketplace🔗</a></h4>
-
 <h4>IMPACT LOUNGE - Speaker (2022.12) <a href="https://lounge.connect-impact.org/">🔗</a></h4>
-
 <h4>Python Korea End of year Party (2022.12) <a href="https://festa.io/events/2889">🔗</a></h4>
-
 <h4>How Startups go global with Stripe (2022.11) <a href="https://event-us.kr/stripe/event/50555">🔗</a></h4>
-
 <h4>AWS Industry Week (2022.11) <a href="https://aws.amazon.com/ko/events/industry-week/">🔗</a></h4>
-
 <h4>The Junior Conference: Shot 1 - Speaker (2022.07) <a href="https://festa.io/events/2433">🔗</a></h4>
-
 <h4>WoowaBro's GoodJob Conference (2022.04) <a href="https://story.baemin.com/goodjob/">🔗</a></h4>
-
 </details>
 
 <details>
 <summary>Projects</summary>
-
 <h4>IoT Factory Manufacturing Execution System, Samsung H.I. (2021.05-2021.06)</h4>
-
 <h4>Art Centre Reservation System, Hana Academy Seoul (2022.06)</h4>
-
 <h4>Private Contents Cloud Deployment with NextCloud (2022.06)</h4>
-
 <h4>Product Recognition Service for Visually Impaired (2022.07)</h4>
-
 <h4>Exam Venue Inquiry System (2022.07)</h4>
-
 <h4>IoT Water Level Reporting System, Hana Academy Seoul (2022.08)</h4>
-
 <h4>Braillie Motion Graphics (2022.09)</h4>
-
 <h4>Modern World Map Quiz (2022.09-2022.10)</h4>
-
 <h4>Face Recognition Attendance System (2022.11)</h4>
-
 </details>
-
 -->
 
 ## 🏆 Honors & Awards
 - Mentee, Youth Science Gifted Mentoring Program, [The Korean Academy of Science and Technology](https://kast.or.kr/en/), 2023.
 - Scholars, Hansung Nobel Young·Gifted Scholars, [Hanseong Sonjaehan Scholarship Foundation](http://sonjaehan.org), 2023.
 - 3rd Awards, Youth Engineering Leader Autonomous Car Contest, [Hyundai Mobis](https://www.mobis.co.kr/en/index.do), 2023.
-- Invention Enrichment Course, [Seoul Science Park](https://ssp.sen.go.kr/), [Seoul Metropolitan Office of Education](https://english.sen.go.kr/english/index.do), 2022.
-- Invited Speaker, [Impact Lounge](https://lounge.connect-impact.org/), [IMPACT](https://connect-impact.org/) (2022).
+- Advanced Invention Course, [Seoul Science Park](https://ssp.sen.go.kr/), [Seoul Metropolitan Office of Education](https://english.sen.go.kr/english/index.do), 2022.
+- Invited Speaker, [Impact Lounge](https://lounge.connect-impact.org/), [IMPACT](https://connect-impact.org/), 2022).
 
 ---
 
