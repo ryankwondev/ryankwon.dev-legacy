@@ -5,8 +5,6 @@
 - School: has_22017@hana.hs.kr
 - Work: ryankwon@algorix.io
 
-> Editing. This is an incomplete document.
-
 ## 🏫 Education
 
 ### Hana Academy Seoul (2022.03-present)
@@ -35,6 +33,14 @@ Head of integrated media post-processing and editing. Both Audio and Video.
 - Worked as Post Production Team Lead.
 - Adobe After Effects, Photoshop, Magix Vegas Pro, etc.
 
+## 👨‍🔬 Memberships
+
+### Institute of Electrical and Electronics Engineers (2023-present)
+Student Member, [Computer Society](https://computer.org/), [Seoul Section](https://site.ieee.org/seoul/).
+
+### Korean Institute of Information Scientists and Engineers (2022-present)
+Student Member, Software Engineering Soceity.
+
 ## 📑 Research
 
 ### Adaptive Partition Sort: Developing an Efficient Sorting Algorithm by Combining the Strengths of Quick Sort and Merge Sort
@@ -48,6 +54,8 @@ Proceedings of the KIISE Korea Software Congress 2022 (2022), 1886-1888.
 
 ### Implementation of CanSat for Information Gathering To Support Artillery Fire,
 with Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak and Ha Neul Park, Proceedings of The Korean Society for Aeronautical and Space Sciences Spring Conference (2022), 703-704. 
+
+<!--
 
 ## 💡 Experience & Projects
 
@@ -98,6 +106,8 @@ with Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak and Ha Neul Park, Proceedings of T
 <h4>Face Recognition Attendance System (2022.11)</h4>
 
 </details>
+
+-->
 
 ## 🏆 Honors & Awards
 - Mentee, Youth Science Gifted Mentoring Program, The Korean Academy of Science and Technology, 2023.
