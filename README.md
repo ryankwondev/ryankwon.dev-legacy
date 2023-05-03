@@ -18,12 +18,12 @@
 
 ## 💼 Career
 
-### Algorix Corporation (2022.06-present)
+### Algorix (2022.06-present)
 Business Management & Operation, Backend and Cloud Engineering
 - Working as Founder, Chief Executive Officer.
 - Amazon Web Service, Python FastAPI, React.js, etc.
 
-### The Coala Inc (2021.06-2022.07)
+### The Coala (2021.06-2022.07)
 Python Backend & Cloud Infrastructure Operation. DevOps.
 - Worked as Chief Technology Officer.
 - Amazon Web Service, Python FastAPI, etc.
