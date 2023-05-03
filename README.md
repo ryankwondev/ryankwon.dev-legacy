@@ -60,7 +60,7 @@ Student Member, Software Engineering Society.
 
 **[Implementation of CanSat for Information Gathering To Support Artillery Fire](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11180787),**\
   Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak, Ha Neul Park and Ryan Donghan Kwon,
-  Proceedings of The Korean Society for Aeronautical and Space Sciences Spring Conference (2022), 703-704. 
+  Proceedings of The Korean Society for Aeronautical and Space Sciences Fall Conference (2022), 703-704. 
 
 <!--
 
