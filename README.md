@@ -7,8 +7,7 @@
 
 ## 🏫 Education
 
-### [Hana Academy Seoul](https://eng.hana.hs.kr)
-> 2022.03-present
+#### [Hana Academy Seoul](https://eng.hana.hs.kr) (2022.03-present)
 - IT Club ***Assembly*** Vice President
 - Aerospace Club ***Zyrospace*** President
 - Finance Club ***Greenrock*** Vice President
