@@ -42,7 +42,7 @@ https://icombine.net/knowledge-base/skill-levels
 Student Member, [Computer Society](https://computer.org/), [Seoul Section](https://site.ieee.org/seoul/).
 
 ***[Python Software Foundation](https://www.python.org/psf-landing/) (2022-present)***
-Contributing Member(Voting Memberships).
+Contributing Member (Voting Memberships).
 
 ***[Korean Institute of Information Scientists and Engineers](https://www.kiise.or.kr) (2022-present)***
 Student Member, Software Engineering Society.
