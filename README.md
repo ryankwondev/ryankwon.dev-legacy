@@ -7,7 +7,8 @@
 
 ## 🏫 Education
 
-### [Hana Academy Seoul](https://eng.hana.hs.kr) (2022.03-present)
+### [Hana Academy Seoul](https://eng.hana.hs.kr)
+> 2022.03-present
 - IT Club ***Assembly*** Vice President
 - Aerospace Club ***Zyrospace*** President
 - Finance Club ***Greenrock*** Vice President
@@ -18,30 +19,33 @@
 
 ## 💼 Employment
 
-### Algorix (2022.06-present)
-Business Management & Operation, Backend and Cloud Engineering
-- Working as Founder and Backend Engineer.
+#### Algorix (2022.06-present)
+***Working as Founder, Backend Engineer.*** Responsible for business management and operations, backend development of web applications via FastAPI, PostgreSQL, etc. Building and operating infrastructure with Amazon Web Services.
+
+<!--
 - Amazon Web Service, Python FastAPI, React.js, etc.
+Working as Founder and Backend Engineer. Responsible for business management and operations, backend development of web applications via Python FastAPI.
+![SCSS](https://img.shields.io/badge/SCSS-gray?style=flat&logo=sass&logoColor=#3776AB)
+![SCSS](https://img.shields.io/badge/Python-adaptive?style=flat&logo=FastAPI)
+![amazonaws](https://img.shields.io/badge/amazonaws-FF9900?logo=amazonaws&style=flat)
+https://icombine.net/knowledge-base/skill-levels
+-->
 
-### The Coala (2021.06-2022.07)
-Python Backend & Cloud Infrastructure Operation. DevOps.
-- Worked as Chief Technology Officer.
-- Amazon Web Service, Python FastAPI, etc.
+#### The Coala (2021.06-2022.07)
+***Worked as Chief Technology Officer (& DevOps).*** Migrating a legacy environment built with Express.js+MongoDB to FastAPI+PostgreSQL, building and operating an infrastructure using AWS, introducing a culture of effective development collaboration through GitHub, and front-end development and maintenance using Bootstrap.
 
-### Studio AO (2020.11-2021.07)
-Head of integrated media post-processing and editing. Both Audio and Video.
-- Worked as Post Production Team Lead.
-- Adobe After Effects, Photoshop, Magix Vegas Pro, etc.
+#### Studio AO (2020.11-2021.07)
+***Worked as Post Production Team Lead.*** AVideo post-production and editing with Adobe CC platforms such as After Effects, Photoshop, Illustrator, etc. and Magic Vegas Pro. Sound post-processing and music video mixing and mastering with Ableton Live. Experience with iZotope sound plugins such as Ozone, RX, and others, and plugins such as Waves and Boris.
 
 ## 👨‍🔬 Memberships
 
-### [Institute of Electrical and Electronics Engineers](https://www.ieee.org) (2023-present)
+#### [Institute of Electrical and Electronics Engineers](https://www.ieee.org) (2023-present)
 Student Member, [Computer Society](https://computer.org/), [Seoul Section](https://site.ieee.org/seoul/).
 
-### [Python Software Foundation](https://www.python.org/psf-landing/) (2022-present)
+#### [Python Software Foundation](https://www.python.org/psf-landing/) (2022-present)
 Contributing Member(Voting Memberships).
 
-### [Korean Institute of Information Scientists and Engineers](https://www.kiise.or.kr) (2022-present)
+#### [Korean Institute of Information Scientists and Engineers](https://www.kiise.or.kr) (2022-present)
 Student Member, Software Engineering Society.
 
 ## 📑 Publications
