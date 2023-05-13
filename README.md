@@ -98,7 +98,7 @@ Student Member, Software Engineering Society.
 -->
 
 ## 🏆 Honors & Awards
-- Mentor, [SKYCC: PAIRING](https://www.skycc.kr/), [SNU Computer Study Club](https://scsc.snu.ac.kr), 2023.
+- Mentor & Judge, [SKYCC: PAIRING](https://www.skycc.kr/), [SNU Computer Study Club](https://scsc.snu.ac.kr/), 2023.
 - Mentee, Youth Science Gifted Mentoring Program, [The Korean Academy of Science and Technology](https://kast.or.kr/en/), 2023.
 - Scholars, Hansung Nobel Young·Gifted Scholars, [Hanseong Sonjaehan Scholarship Foundation](http://sonjaehan.org), 2023.
 - 3rd Awards, Youth Engineering Leader Autonomous Car Contest, [Hyundai Mobis](https://www.mobis.co.kr/en/index.do), 2023.
