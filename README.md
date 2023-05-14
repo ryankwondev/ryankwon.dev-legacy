@@ -1,6 +1,6 @@
 # 🧑‍💻 Ryan Donghan Kwon
 
-- Personal: kznm.develop@gmail.com
+- Personal: me@ryankwon.dev
 - Research: ryankwon@ieee.org
 - School: has_22017@hana.hs.kr
 - Work: ryankwon@algorix.io
