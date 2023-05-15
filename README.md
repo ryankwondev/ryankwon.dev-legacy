@@ -57,7 +57,7 @@ Student Member, Software Engineering Society.
   Ryan Donghan Kwon, Jun Seob Shin and Do Hyun Lim,
   Proceedings of the 25th Korea Conference on Software Engineering (2023), 193-197. 
  
-**[Proposal of Lexicographically Sortable Unique Identifier to replace Universal Unique Identifier (UUID) in Distributed Computing System](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224631),**\
+**[Proposal of Lexicographically Sortable Unique Identifier to replace UUID in Distributed Computing System](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224631),**\
   Ryan Donghan Kwon,
   Proceedings of the KIISE Korea Software Congress (2022), 1886-1888. 
 
@@ -68,36 +68,28 @@ Student Member, Software Engineering Society.
 ## 💡 Experience & Projects
 
 ### Experience
+- [SUNY Korea Experience Day (2023.05)](https://apply.sunykorea.ac.kr/portal/experience_day)
+- [MODUPOP: ML + QC (2023.04)](https://festa.io/events/3325)
+- [BespinGlobal OpsNow360 (2023.02)](https://event.opsnow.com/opsnow360-conference/)
+- [MODUPOP: JAX/Flax (2023.02)](https://festa.io/events/3118)
+- [Stripe Product Masterclass for SaaS & Marketplace (2023.01)](https://event-us.kr/stripe/event/54391)
+- [IMPACT LOUNGE (2022.12)](https://lounge.connect-impact.org/)
+- [Python Korea End of year Party (2022.12)](https://festa.io/events/2889)
+- [How Startups go global with Stripe (2022.11)](https://event-us.kr/stripe/event/50555)
+- [AWS Industry Week (2022.11)](https://aws.amazon.com/ko/events/industry-week/)
+- [The Junior Conference: Shot 1 - Speaker (2022.07)](https://festa.io/events/2433)
+- [WoowaBro's GoodJob Conference (2022.04)](https://story.baemin.com/goodjob/)
 
-- [**SUNY Korea Experience Day (2023.05)**](https://apply.sunykorea.ac.kr/portal/experience_day)
-- [**MODUPOP: ML + QC (2023.04)**](https://festa.io/events/3325)
-- [**BespinGlobal OpsNow360 (2023.02)**](https://event.opsnow.com/opsnow360-conference/)
-- [**MODUPOP: JAX/Flax (2023.02)**](https://festa.io/events/3118)
-- [**Stripe Product Masterclass for SaaS & Marketplace (2023.01)**](https://event-us.kr/stripe/event/54391)
-- [**IMPACT LOUNGE (2022.12)**](https://lounge.connect-impact.org/)
-- [**Python Korea End of year Party (2022.12)**](https://festa.io/events/2889)
-- [**How Startups go global with Stripe (2022.11)**](https://event-us.kr/stripe/event/50555)
-- [**AWS Industry Week (2022.11)**](https://aws.amazon.com/ko/events/industry-week/)
-- [**The Junior Conference: Shot 1 - Speaker (2022.07)**](https://festa.io/events/2433)
-- [**WoowaBro's GoodJob Conference (2022.04)**](https://story.baemin.com/goodjob/)
-
-<!--
-
-<details>
-<summary>Projects</summary>
-<h4>IoT Factory Manufacturing Execution System, Samsung H.I. (2021.05-2021.06)</h4>
-<h4>Art Centre Reservation System, Hana Academy Seoul (2022.06)</h4>
-<h4>Private Contents Cloud Deployment with NextCloud (2022.06)</h4>
-<h4>Product Recognition Service for Visually Impaired (2022.07)</h4>
-<h4>Exam Venue Inquiry System (2022.07)</h4>
-<h4>IoT Water Level Reporting System, Hana Academy Seoul (2022.08)</h4>
-<h4>Braillie Motion Graphics (2022.09)</h4>
-<h4>Modern World Map Quiz (2022.09-2022.10)</h4>
-<h4>Face Recognition Attendance System (2022.11)</h4>
-</details>
-
--->
-
+### Projects
+- Face Recognition Attendance System (2022.11)
+- Modern World Map Quiz, Georgetown University (2022.09-2022.10)
+- Braillie Motion Graphics, REA:TIC Industries (2022.09)
+- IoT Water Level Reporting System, Hana Academy Seoul (2022.08)
+- Exam Venue Inquiry System, Hana Academy Seoul (2022.07)
+- Product Recognition Service for Visually Impaired, Team DA:AL (2022.07)
+- Private Contents Cloud Deployment with NextCloud (2022.06)
+- Art Centre Reservation System, Hana Academy Seoul (2022.06)
+- IoT Factory Manufacturing Execution System, Samsung H.I. (2021.05-2021.06)
 
 ## 🏆 Honors & Awards
 - Mentor & Judge, [SKYCC: PAIRING](https://www.skycc.kr/), [SNU Computer Study Club](https://www.facebook.com/scscian), 2023.
