@@ -81,6 +81,8 @@ Student Member, Software Engineering Society.
 <h4>AWS Industry Week (2022.11) <a href="https://aws.amazon.com/ko/events/industry-week/">🔗</a></h4>
 <h4>The Junior Conference: Shot 1 - Speaker (2022.07) <a href="https://festa.io/events/2433">🔗</a></h4>
 <h4>WoowaBro's GoodJob Conference (2022.04) <a href="https://story.baemin.com/goodjob/">🔗</a></h4>
+<h4>SUNY Korea Experience Day <a href="https://apply.sunykorea.ac.kr/portal/experience_day">🔗</a></h4>
+
 </details>
 
 <details>
