@@ -65,25 +65,23 @@ Student Member, Software Engineering Society.
   Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak, Ha Neul Park and Ryan Donghan Kwon,
   Proceedings of The Korean Society for Aeronautical and Space Sciences Fall Conference (2022), 703-704. 
 
-<!--
-
 ## 💡 Experience & Projects
 
-<details>
-<summary>Experience</summary>
-<h4>MODUPOP: ML + QC (2023.04) <a href="https://festa.io/events/3325">🔗</a></h4>
-<h4>BespinGlobal OpsNow360 (2023.02) <a href="https://event.opsnow.com/opsnow360-conference/">🔗</a></h4>
-<h4>MODUPOP: JAX/Flax (2023.02) <a href="https://festa.io/events/3118">🔗</a></h4>
-<h4>Stripe Product Masterclass for SaaS & Marketplace (2023.01) <a href="https://event-us.kr/stripe/event/54391">SaaS🔗</a> <a href="https://event-us.kr/stripe/event/54392">Marketplace🔗</a></h4>
-<h4>IMPACT LOUNGE - Speaker (2022.12) <a href="https://lounge.connect-impact.org/">🔗</a></h4>
-<h4>Python Korea End of year Party (2022.12) <a href="https://festa.io/events/2889">🔗</a></h4>
-<h4>How Startups go global with Stripe (2022.11) <a href="https://event-us.kr/stripe/event/50555">🔗</a></h4>
-<h4>AWS Industry Week (2022.11) <a href="https://aws.amazon.com/ko/events/industry-week/">🔗</a></h4>
-<h4>The Junior Conference: Shot 1 - Speaker (2022.07) <a href="https://festa.io/events/2433">🔗</a></h4>
-<h4>WoowaBro's GoodJob Conference (2022.04) <a href="https://story.baemin.com/goodjob/">🔗</a></h4>
-<h4>SUNY Korea Experience Day <a href="https://apply.sunykorea.ac.kr/portal/experience_day">🔗</a></h4>
+### Experience
 
-</details>
+- [**SUNY Korea Experience Day (2023.05)**](https://apply.sunykorea.ac.kr/portal/experience_day)
+- [**MODUPOP: ML + QC (2023.04)**](https://festa.io/events/3325)
+- [**BespinGlobal OpsNow360 (2023.02)**](https://event.opsnow.com/opsnow360-conference/)
+- [**MODUPOP: JAX/Flax (2023.02)**](https://festa.io/events/3118)
+- [**Stripe Product Masterclass for SaaS & Marketplace (2023.01)**](https://event-us.kr/stripe/event/54391)
+- [**IMPACT LOUNGE (2022.12)**](https://lounge.connect-impact.org/)
+- [**Python Korea End of year Party (2022.12)**](https://festa.io/events/2889)
+- [**How Startups go global with Stripe (2022.11)**](https://event-us.kr/stripe/event/50555)
+- [**AWS Industry Week (2022.11)**](https://aws.amazon.com/ko/events/industry-week/)
+- [**The Junior Conference: Shot 1 - Speaker (2022.07)**](https://festa.io/events/2433)
+- [**WoowaBro's GoodJob Conference (2022.04)**](https://story.baemin.com/goodjob/)
+
+<!--
 
 <details>
 <summary>Projects</summary>
@@ -97,7 +95,9 @@ Student Member, Software Engineering Society.
 <h4>Modern World Map Quiz (2022.09-2022.10)</h4>
 <h4>Face Recognition Attendance System (2022.11)</h4>
 </details>
+
 -->
+
 
 ## 🏆 Honors & Awards
 - Mentor & Judge, [SKYCC: PAIRING](https://www.skycc.kr/), [SNU Computer Study Club](https://www.facebook.com/scscian), 2023.
