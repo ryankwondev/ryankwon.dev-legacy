@@ -62,13 +62,13 @@ To illustrate the application of the proposed methodology, this section will dis
 
 ### 4.1 Case Study: GitHub
 
-GitHub, a leading platform for software development, offers both REST and GraphQL APIs [^github2023]. The REST API is used for simple operations, such as fetching a user's profile or a repository's details. On the other hand, the GraphQL API is used when clients need to fetch more complex data, like a user's repositories along with the latest commits on each.
+GitHub, a leading platform for software development, offers both REST and GraphQL APIs[^github2023]. The REST API is used for simple operations, such as fetching a user's profile or a repository's details. On the other hand, the GraphQL API is used when clients need to fetch more complex data, like a user's repositories along with the latest commits on each.
 
 This approach aligns with the proposed methodology: REST for simple, resource-oriented operations and GraphQL for complex data requirements. However, GitHub's approach does not seem to consider factors like performance, complexity, and interoperability.
 
 ### 4.2 Case Study: Shopify
 
-Shopify, a leading e-commerce platform, also provides both REST and GraphQL APIs [^shopify2023]. According to their documentation, they recommend using the REST API for bulk operations due to its simplicity and lower server-side processing requirements. For more complex operations that require data from multiple resources, they recommend their GraphQL API.
+Shopify, a leading e-commerce platform, also provides both REST and GraphQL APIs[^shopify2023]. According to their documentation, they recommend using the REST API for bulk operations due to its simplicity and lower server-side processing requirements. For more complex operations that require data from multiple resources, they recommend their GraphQL API.
 
 This approach takes into account more of the factors proposed in the methodology. Shopify considers the use case, performance, and complexity in deciding which technology to use.
 
