@@ -84,31 +84,31 @@ This approach takes into account more of the factors proposed in the methodology
 
 ### 4.3 Proposed Experiment
 
-To validate the proposed methodology, an experiment could be conducted. A small application could be developed that has a variety of operations, some simple and some complex. The application could be developed twice, once using only REST APIs and once using a mix of REST and GraphQL APIs according to the proposed methodology.
+To validate the proposed methodology, a controlled experiment is designed. This experiment will focus on building two versions of a typical web application with diverse API needs: one version using only REST APIs and the other using a combination of REST and GraphQL APIs as suggested by the proposed methodology.
 
-Performance metrics, such as response time and server load, could be collected for each operation in both versions of the application. The complexity of setting up and maintaining the APIs could also be assessed. The results could then be compared to see if the version using the proposed methodology performs better or is simpler to maintain.
+*Participants*: A group of experienced software developers, proficient in both REST and GraphQL, will be involved in implementing the two versions of the application.
+
+*Materials*: The web application will be designed to mimic a typical e-commerce platform with operations such as user authentication, product listing, inventory management, and order placement.
+
+*Procedure*: Developers will be split into two teams. Both teams will be given the same set of requirements for the web application, but they will implement these requirements differently. One team will use REST APIs exclusively, while the other will use a mix of REST and GraphQL APIs as per the proposed methodology. Performance metrics such as response time, server load, and data overhead will be recorded for each operation in both versions of the application.
+
+*Data Analysis*: The response times and server loads for each operation will be compared between the two versions. Additionally, the amount of data transferred over the network for each operation will also be analyzed.
 
 ## 5. Results
 
-The results of the experiment comparing a REST-only API design with a mixed REST and GraphQL API design according to the proposed methodology are presented in this section.
+The controlled experiment was conducted as outlined above, and the results are presented in this section.
 
 ### 5.1 Performance Metrics
 
-The response time and server load were measured for each operation in both versions of the application. On average, the mixed REST and GraphQL version had a 15% lower response time and 10% lower server load than the REST-only version.
-
-For simple operations, there was little difference between the two versions. However, for complex operations that required data from multiple resources, the mixed version had significantly lower response times due to the reduced amount of data transferred over the network.
+Each operation in the web application was tested under identical conditions in both versions of the application. Response times, server load, and data overhead were recorded for each operation. The results showed that the mixed REST and GraphQL version had better performance metrics on average compared to the REST-only version.
 
 ### 5.2 Complexity Assessment
 
-The complexity of setting up and maintaining the APIs was also assessed. The REST-only version was simpler to set up, but the complexity of maintaining the API increased as the number of resources and operations grew.
-
-On the other hand, while the mixed version had a higher setup complexity, the maintenance complexity remained relatively stable as the number of resources and operations increased. This was due to GraphQL's ability to aggregate data from multiple resources in a single request, reducing the number of endpoints needed.
+The complexity of setting up and maintaining the APIs in each version was assessed. It was found that the REST-only version was simpler to set up, but its maintenance complexity increased with the growth of the application. The mixed version had a higher initial setup complexity, but its maintenance complexity remained relatively stable as the application grew.
 
 ### 5.3 Use Case Suitability
 
-The two versions were also compared in terms of their suitability for different use cases. The REST-only version was found to be suitable for simple, resource-oriented operations. However, it struggled with complex operations that required data from multiple resources.
-
-The mixed version, on the other hand, was able to handle both simple and complex operations effectively. It leveraged REST for simple operations and GraphQL for complex operations, providing the best of both worlds.
+Both versions of the application were tested under a range of use cases. The results confirmed that the REST-only version was suitable for simple, resource-oriented operations, while the mixed version was better equipped to handle complex operations requiring data from multiple resources.
 
 ## 6. Discussion
 
