@@ -83,7 +83,7 @@ Student Member, Software Engineering Society.
 ### Projects
 - Exam Venue Inquiry System *(Advanced)*, Hana Academy Seoul (2023.04)
 - Face Recognition Attendance System (2022.11)
-- Modern World Map Quiz, Georgetown University (2022.09-2022.10)
+- Map of the Modern World Quiz, Georgetown University (2022.09-2022.10)
 - Braillie Motion Graphics, REA:TIC Industries (2022.09)
 - IoT Water Level Reporting System, Hana Academy Seoul (2022.08)
 - Exam Venue Inquiry System, Hana Academy Seoul (2022.07)
