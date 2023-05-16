@@ -92,9 +92,9 @@ Student Member, Software Engineering Society.
 - IoT Factory Manufacturing Execution System, Samsung H.I. (2021.05-2021.06)
 
 ## 🏆 Honors & Awards
-- Mentor & Judge, [SKYCC: PAIRING](https://www.skycc.kr/), [SNU Computer Study Club](https://www.facebook.com/scscian), 2023.
+- Mentor and Judge, [SKYCC: PAIRING](https://www.skycc.kr/), [SNU Computer Study Club](https://www.facebook.com/scscian), 2023.
 - Mentee, Youth Science Gifted Mentoring Program, [The Korean Academy of Science and Technology](https://kast.or.kr/en/), 2023.
-- Scholars, Hansung Nobel Young·Gifted Scholars, [Hanseong Sonjaehan Scholarship Foundation](http://sonjaehan.org), 2023.
+- Hansung Nobel Young·Gifted Scholars, [Hanseong Sonjaehan Scholarship Foundation](http://sonjaehan.org), 2023.
 - 3rd Awards, Youth Engineering Leader Autonomous Car Contest, [Hyundai Mobis](https://www.mobis.co.kr/en/index.do), 2023.
 - Advanced Invention Course, [Seoul Science Park](https://ssp.sen.go.kr/), [Seoul Metropolitan Office of Education](https://english.sen.go.kr/english/index.do), 2022.
 - Invited Speaker, [Impact Lounge](https://lounge.connect-impact.org/), [IMPACT](https://connect-impact.org/), 2022.
