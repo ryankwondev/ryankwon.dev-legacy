@@ -1,9 +1,9 @@
 # 🧑‍💻 Ryan Donghan Kwon
 
-- Personal: me@ryankwon.dev
-- Research: ryankwon@ieee.org
-- School: has_22017@hana.hs.kr
-- Work: ryankwon@algorix.io
+- Personal: [me@ryankwon.dev](mailto:me@ryankwon.dev)
+- Research: [ryankwon@ieee.org](mailto:ryankwon@ieee.org)
+- School: [has_22017@hana.hs.kr](mailto:has_22017@hana.hs.kr)
+- Work: [ryankwon@algorix.io](mailto:ryankwon@algorix.io)
 
 ## 🏫 Education
 
