@@ -148,6 +148,17 @@ In conclusion, the choice between REST and GraphQL need not be a binary one. By 
 
 ## References
 
+[1]: Fielding, Roy Thomas. Architectural styles and the design of network-based software architectures. University of California, Irvine, 2000.
+
+```bibtex
+@phdthesis{fielding2000,
+  title={Architectural styles and the design of network-based software architectures},
+  author={Fielding, Roy Thomas},
+  year={2000},
+  school={University of California}
+}
+```
+
 ```bibtex
 @phdthesis{fielding2000,
   title={Architectural styles and the design of network-based software architectures},
