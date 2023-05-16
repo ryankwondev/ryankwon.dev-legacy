@@ -128,17 +128,17 @@ In conclusion, the choice between REST and GraphQL need not be a binary one. By 
 
 ## References
 
-[^1] Fielding, R. T. (2000). Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine.
-[^2] Facebook Inc. (2015). GraphQL: A query language for APIs. https://graphql.org/
-[^3] Fielding, R. T. (2000). Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine.
-[^4] Rodriguez, A., et al. (2008). RESTful Web Services: The Basics. IBM DeveloperWorks.
-[^5] Facebook Inc. (2015). GraphQL: A query language for APIs. https://graphql.org/
-[^6] Hartig, O., & Pérez, J. (2018). Semantics and Complexity of GraphQL. In Proceedings of The Web Conference 2018 (pp. 1155–1164).
-[^7] Sodderland, A., & van Ballegooijen, B. (2020). A comparison between REST and GraphQL: A developers perspective.
-[^8] Flanagan, D., & Byrne, N. (2019). Performance comparison of GraphQL and REST.
-[^9] Pautasso, C., & Zimmermann, S. (2018). REST vs. GraphQL: A Controlled Experiment. In 2018 IEEE International Conference on Web Services (ICWS) (pp. 0001–0008).
-[^10] GitHub Inc. (2023). GitHub APIs. https://docs.github.com/en/rest
-[^11] Shopify Inc. (2023). Shopify APIs. https://shopify.dev/concepts/about-apis
+[^1]: Fielding, R. T. (2000). Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine.
+[^2]: Facebook Inc. (2015). GraphQL: A query language for APIs. https://graphql.org/
+[^3]: Fielding, R. T. (2000). Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine.
+[^4]: Rodriguez, A., et al. (2008). RESTful Web Services: The Basics. IBM DeveloperWorks.
+[^5]: Facebook Inc. (2015). GraphQL: A query language for APIs. https://graphql.org/
+[^6]: Hartig, O., & Pérez, J. (2018). Semantics and Complexity of GraphQL. In Proceedings of The Web Conference 2018 (pp. 1155–1164).
+[^7]: Sodderland, A., & van Ballegooijen, B. (2020). A comparison between REST and GraphQL: A developers perspective.
+[^8]: Flanagan, D., & Byrne, N. (2019). Performance comparison of GraphQL and REST.
+[^9]: Pautasso, C., & Zimmermann, S. (2018). REST vs. GraphQL: A Controlled Experiment. In 2018 IEEE International Conference on Web Services (ICWS) (pp. 0001–0008).
+[^10]: GitHub Inc. (2023). GitHub APIs. https://docs.github.com/en/rest
+[^11]: Shopify Inc. (2023). Shopify APIs. https://shopify.dev/concepts/about-apis
 
 <!--
 ```bibtex
