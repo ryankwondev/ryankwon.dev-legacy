@@ -4,7 +4,7 @@
 
 The advent of web technology has led to significant changes in how data is transferred and consumed. Two of the most notable technologies that have emerged in the realm of web development are Representational State Transfer (REST) and GraphQL APIs. As diverse as they are, these technologies have each carved out their niche and are used in a variety of applications today.
 
-REST, first defined by Roy Fielding in 2000 [1], is a widely adopted architectural style that structures a network application as a stateless set of resources, each with a unique URL. It has gained popularity due to its simplicity and the fact that it's built upon standard HTTP methods, making it highly interoperable. However, its resource-oriented approach can lead to over-fetching or under-fetching of data, which can impact the efficiency of an application.
+REST, first defined by Roy Fielding in 2000 [^1], is a widely adopted architectural style that structures a network application as a stateless set of resources, each with a unique URL. It has gained popularity due to its simplicity and the fact that it's built upon standard HTTP methods, making it highly interoperable. However, its resource-oriented approach can lead to over-fetching or under-fetching of data, which can impact the efficiency of an application.
 
 On the other hand, GraphQL, developed and open-sourced by Facebook in 2015 [2], presents an alternative approach. It allows clients to specify exactly what data they need, potentially reducing the amount of data transferred over the network. However, this comes with an increase in complexity both in terms of setup and query understanding.
 
@@ -148,7 +148,7 @@ In conclusion, the choice between REST and GraphQL need not be a binary one. By 
 
 ## References
 
-[1]: Fielding, Roy Thomas. Architectural styles and the design of network-based software architectures. University of California, Irvine, 2000.
+[^1]: Fielding, Roy Thomas. Architectural styles and the design of network-based software architectures. University of California, Irvine, 2000.
 
 ```bibtex
 @phdthesis{fielding2000,
