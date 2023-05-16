@@ -65,9 +65,9 @@ Student Member, Software Engineering Society.
   Jeonghun Lee, Jun Seob Shin, Ji Hoo Gwak, Ha Neul Park and Ryan Donghan Kwon,
   Proceedings of The Korean Society for Aeronautical and Space Sciences Fall Conference (2022), 703-704. 
 
-## 💡 Experience & Projects
+## 💡 Experiences & Projects
 
-### Experience
+### Experiences
 - [SUNY Korea Experience Day (2023.05)](https://apply.sunykorea.ac.kr/portal/experience_day)
 - [MODUPOP: ML + QC (2023.04)](https://festa.io/events/3325)
 - [BespinGlobal OpsNow360 (2023.02)](https://event.opsnow.com/opsnow360-conference/)
