@@ -37,7 +37,7 @@ https://icombine.net/knowledge-base/skill-levels
 -->
 
 ### The Coala (2021.06-2022.07)
-***Worked as Chief Technology Officer (& DevOps).*** Migrating a legacy environment built with Express.js+MongoDB to FastAPI+PostgreSQL, building and operating an infrastructure using AWS, introducing a culture of effective development collaboration through GitHub, and front-end development and maintenance using Bootstrap.
+***Worked as Chief Technology Officer (& DevOps).*** Migrating a legacy environment built with Express.js + MongoDB to FastAPI + PostgreSQL, building and operating an infrastructure using AWS, introducing a culture of effective development collaboration through GitHub, and front-end development and maintenance using Bootstrap.
 
 ### Studio AO (2020.11-2021.07)
 ***Worked as Post Production Team Lead.*** A Video post-production and editing with Adobe CC platforms such as After Effects, Photoshop, Illustrator, etc. and Magic Vegas Pro. Sound post-processing and music video mixing and mastering with Ableton Live. Experience with iZotope sound plugins such as Ozone, RX, and others, and plugins such as Waves and Boris.
