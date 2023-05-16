@@ -4,9 +4,9 @@
 
 The advent of web technology has led to significant changes in how data is transferred and consumed. Two of the most notable technologies that have emerged in the realm of web development are Representational State Transfer (REST) and GraphQL APIs. As diverse as they are, these technologies have each carved out their niche and are used in a variety of applications today.
 
-REST, first defined by Roy Fielding in 2000[^1], is a widely adopted architectural style that structures a network application as a stateless set of resources, each with a unique URL. It has gained popularity due to its simplicity and the fact that it's built upon standard HTTP methods, making it highly interoperable. However, its resource-oriented approach can lead to over-fetching or under-fetching of data, which can impact the efficiency of an application.
+REST, first defined by Roy Fielding in 2000[^fielding2000], is a widely adopted architectural style that structures a network application as a stateless set of resources, each with a unique URL. It has gained popularity due to its simplicity and the fact that it's built upon standard HTTP methods, making it highly interoperable. However, its resource-oriented approach can lead to over-fetching or under-fetching of data, which can impact the efficiency of an application.
 
-On the other hand, GraphQL, developed and open-sourced by Facebook in 2015[^2], presents an alternative approach. It allows clients to specify exactly what data they need, potentially reducing the amount of data transferred over the network. However, this comes with an increase in complexity both in terms of setup and query understanding.
+On the other hand, GraphQL, developed and open-sourced by Facebook in 2015[^facebook2015], presents an alternative approach. It allows clients to specify exactly what data they need, potentially reducing the amount of data transferred over the network. However, this comes with an increase in complexity both in terms of setup and query understanding.
 
 While both technologies have their strengths and weaknesses, there has been limited research into how they might be used in combination to leverage their strengths while mitigating their weaknesses. This paper aims to fill that gap.
 
@@ -18,11 +18,11 @@ This study will be of interest to developers, architects, and technologists invo
 
 The literature on API design and usage presents a wealth of information on both REST and GraphQL APIs. While several studies have compared the two, to the best of our knowledge, no prior work has proposed a specific methodology for using them in combination.
 
-REST, defined by Fielding[^3], has been widely adopted due to its simplicity and the use of standard HTTP methods. This architectural style structures a network application as a stateless set of resources, each with a unique URL. Numerous studies have explored the advantages and challenges of REST. For instance, the work of Rodriguez et al.[^4] delves into the principles of REST and its implications for web services.
+REST, defined by Fielding[^fielding2000], has been widely adopted due to its simplicity and the use of standard HTTP methods. This architectural style structures a network application as a stateless set of resources, each with a unique URL. Numerous studies have explored the advantages and challenges of REST. For instance, the work of Rodriguez et al.[^rodriguez2008] delves into the principles of REST and its implications for web services.
 
-GraphQL, on the other hand, is a relatively newer technology. Developed and open-sourced by Facebook[^5], GraphQL allows clients to specify exactly what data they need, reducing over-fetching and under-fetching of data. Despite its relatively short existence, several studies have examined GraphQL's impact on web development. For example, Hartig and Pérez[^6] explore the semantics of GraphQL, and how it compares to traditional API designs.
+GraphQL, on the other hand, is a relatively newer technology. Developed and open-sourced by Facebook[^facebook2015], GraphQL allows clients to specify exactly what data they need, reducing over-fetching and under-fetching of data. Despite its relatively short existence, several studies have examined GraphQL's impact on web development. For example, Hartig and Pérez[^hartig2018] explore the semantics of GraphQL, and how it compares to traditional API designs.
 
-Several researchers have undertaken direct comparisons between REST and GraphQL. Sodderland and van Ballegooijen[^7] provided an in-depth comparison of the two from a developer's perspective, highlighting the different use cases for which each might be better suited. Flanagan and Byrne[^8] focused on the performance characteristics of REST and GraphQL, noting the trade-offs between data transfer efficiency and server-side processing. In a controlled experiment, Pautasso and Zimmermann[^9] compared the two technologies, shedding light on their relative strengths and weaknesses in a controlled environment.
+Several researchers have undertaken direct comparisons between REST and GraphQL. Sodderland and van Ballegooijen[^sodderland2020] provided an in-depth comparison of the two from a developer's perspective, highlighting the different use cases for which each might be better suited. Flanagan and Byrne[^flanagan2019] focused on the performance characteristics of REST and GraphQL, noting the trade-offs between data transfer efficiency and server-side processing. In a controlled experiment, Pautasso and Zimmermann[^pautasso2018] compared the two technologies, shedding light on their relative strengths and weaknesses in a controlled environment.
 
 Despite this wealth of information, there appears to be a gap in the literature when it comes to combining the use of REST and GraphQL APIs. This paper seeks to fill that gap by proposing a methodology for using both based on the specific needs and constraints of the application.
 
@@ -62,13 +62,13 @@ To illustrate the application of the proposed methodology, this section will dis
 
 ### 4.1 Case Study: GitHub
 
-GitHub, a leading platform for software development, offers both REST and GraphQL APIs [^10]. The REST API is used for simple operations, such as fetching a user's profile or a repository's details. On the other hand, the GraphQL API is used when clients need to fetch more complex data, like a user's repositories along with the latest commits on each.
+GitHub, a leading platform for software development, offers both REST and GraphQL APIs [^github2023]. The REST API is used for simple operations, such as fetching a user's profile or a repository's details. On the other hand, the GraphQL API is used when clients need to fetch more complex data, like a user's repositories along with the latest commits on each.
 
 This approach aligns with the proposed methodology: REST for simple, resource-oriented operations and GraphQL for complex data requirements. However, GitHub's approach does not seem to consider factors like performance, complexity, and interoperability.
 
 ### 4.2 Case Study: Shopify
 
-Shopify, a leading e-commerce platform, also provides both REST and GraphQL APIs [^11]. According to their documentation, they recommend using the REST API for bulk operations due to its simplicity and lower server-side processing requirements. For more complex operations that require data from multiple resources, they recommend their GraphQL API.
+Shopify, a leading e-commerce platform, also provides both REST and GraphQL APIs [^shopify2023]. According to their documentation, they recommend using the REST API for bulk operations due to its simplicity and lower server-side processing requirements. For more complex operations that require data from multiple resources, they recommend their GraphQL API.
 
 This approach takes into account more of the factors proposed in the methodology. Shopify considers the use case, performance, and complexity in deciding which technology to use.
 
@@ -128,17 +128,15 @@ In conclusion, the choice between REST and GraphQL need not be a binary one. By 
 
 ## References
 
-[^1]: Fielding, R. T. (2000). Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine.
-[^2]: Facebook Inc. (2015). GraphQL: A query language for APIs. https://graphql.org/
-[^3]: Fielding, R. T. (2000). Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine.
-[^4]: Rodriguez, A., et al. (2008). RESTful Web Services: The Basics. IBM DeveloperWorks.
-[^5]: Facebook Inc. (2015). GraphQL: A query language for APIs. https://graphql.org/
-[^6]: Hartig, O., & Pérez, J. (2018). Semantics and Complexity of GraphQL. In Proceedings of The Web Conference 2018 (pp. 1155–1164).
-[^7]: Sodderland, A., & van Ballegooijen, B. (2020). A comparison between REST and GraphQL: A developers perspective.
-[^8]: Flanagan, D., & Byrne, N. (2019). Performance comparison of GraphQL and REST.
-[^9]: Pautasso, C., & Zimmermann, S. (2018). REST vs. GraphQL: A Controlled Experiment. In 2018 IEEE International Conference on Web Services (ICWS) (pp. 0001–0008).
-[^10]: GitHub Inc. (2023). GitHub APIs. https://docs.github.com/en/rest
-[^11]: Shopify Inc. (2023). Shopify APIs. https://shopify.dev/concepts/about-apis
+[^fielding2000]: Fielding, R. T. (2000). Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine.
+[^facebook2015]: Facebook Inc. (2015). GraphQL: A query language for APIs. https://graphql.org/
+[^rodriguez2008]: Rodriguez, A., et al. (2008). RESTful Web Services: The Basics. IBM DeveloperWorks.
+[^hartig2018]: Hartig, O., & Pérez, J. (2018). Semantics and Complexity of GraphQL. In Proceedings of The Web Conference 2018 (pp. 1155–1164).
+[^sodderland2020]: Sodderland, A., & van Ballegooijen, B. (2020). A comparison between REST and GraphQL: A developers perspective.
+[^flanagan2019]: Flanagan, D., & Byrne, N. (2019). Performance comparison of GraphQL and REST.
+[^pautasso2018]: Pautasso, C., & Zimmermann, S. (2018). REST vs. GraphQL: A Controlled Experiment. In 2018 IEEE International Conference on Web Services (ICWS) (pp. 0001–0008).
+[^github2023]: GitHub Inc. (2023). GitHub APIs. https://docs.github.com/en/rest
+[^shopify2023]: Shopify Inc. (2023). Shopify APIs. https://shopify.dev/concepts/about-apis
 
 <!--
 ```bibtex
