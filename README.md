@@ -81,6 +81,7 @@ Student Member, Software Engineering Society.
 - [WoowaBro's GoodJob Conference (2022.04)](https://story.baemin.com/goodjob/)
 
 ### Projects
+- Exam Venue Inquiry System *(Advanced)*, Hana Academy Seoul (2023.04)
 - Face Recognition Attendance System (2022.11)
 - Modern World Map Quiz, Georgetown University (2022.09-2022.10)
 - Braillie Motion Graphics, REA:TIC Industries (2022.09)
