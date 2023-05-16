@@ -1,3 +1,9 @@
+---
+title: Ryan Donghan Kwon
+date: 2023-05-16
+tags: ["Ryan", "Donghan", "Kwon", "Resume", "ryankwon"]
+---
+
 # 🧑‍💻 Ryan Donghan Kwon
 
 - Personal: [me@ryankwon.dev](mailto:me@ryankwon.dev)
