@@ -11,3 +11,9 @@ a {
   background-image: linear-gradient(to right, #4481EB, #04BEFE);
   z-index: 1000;
 }
+
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css");
+
+* {
+  font-family: 'Pretendard', sans-serif;
+}
