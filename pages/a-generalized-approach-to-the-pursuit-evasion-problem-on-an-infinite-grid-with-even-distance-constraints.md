@@ -138,7 +138,7 @@ Our generalized solution extends the existing literature on pursuit-evasion prob
 
 ### 6.1. Implementation details
 
-We implemented the proposed algorithm for the pursuit-evasion problem with even-distance constraints using Python and the NetworkX library for graph manipulation. The simulation was run with the Python 3.9 runtime on Jupyter Notebook at the KISTI National Supercomputing Center.
+We implemented the proposed algorithm for the pursuit-evasion problem with even-distance constraints using Python and the NetworkX library for graph manipulation. The simulation was run with the Python 3.9 runtime on the Google Colaboratory.
 
 ```python
 import networkx as nx
@@ -250,10 +250,6 @@ While our algorithm provides a generalized solution to the pursuit-evasion probl
 3. Multi-objective optimization: The current algorithm focuses on minimizing the distance between the police officers and the thief while maintaining the even-distance constraint. Future work could consider multi-objective optimization, where the agents also aim to minimize other factors, such as the time required to capture the thief or the total distance traveled.
 4. Learning-based approaches: Instead of relying on perfect information about the positions of all agents, future work could explore learning-based approaches, where the agents learn to predict the movements of other agents and adapt their strategies accordingly.
 5. Real-world applications: Finally, our algorithm can be applied to real-world problems, such as security and surveillance, by adapting it to specific problem domains and incorporating additional constraints and objectives relevant to the application.
-
-## Acknowledgement
-
-This work was supported by the KISTI National Supercomputing Center with supercomputing resources.
 
 ## References
 
