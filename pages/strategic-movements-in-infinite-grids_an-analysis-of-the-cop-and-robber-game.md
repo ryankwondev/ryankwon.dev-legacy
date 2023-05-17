@@ -6,7 +6,7 @@ date: 2022-05-17
 
 # Strategic Movements in Infinite Grids: An Analysis of the Cop and Robber Game
 
-**Author** - [Ryan Donghan Kwon](mailto:ryankwon@ieee.org), *IEEE, Hana Academy Seoul*.
+**Author** - [Ryan Donghan Kwon](mailto:ryankwon@ieee.org), *IEEE*
 
 ## 1. Introduction
 
