@@ -205,6 +205,16 @@ To evaluate the performance of our algorithm, we conducted a series of experimen
 
 The simulation results show that our algorithm is effective in determining the optimal strategies for both the thief and the police officers in the pursuit-evasion problem with even-distance constraints. The number of iterations required for the algorithm to reach a conclusion depends on the complexity of the problem, with more police officers generally requiring more iterations. However, in most cases, the algorithm converges within a reasonable number of iterations.
 
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/c5840d79-d116-49b0-b592-80b339390b3b){: width="25%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/21bc5b93-f059-4081-85c4-0ebeb2c0c5fb){: width="25%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/0e0fcfb1-03ad-419a-a793-cc51bb06871e){: width="25%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/c0151cb0-3f32-4c8c-954d-8aebd12928e2){: width="25%"}
+
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/a143b583-fe21-4c36-80f9-db227dfc0ac8){: width="25%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/de0d31c1-a633-48e8-9a94-d8420c88944a){: width="25%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/fa605ef2-51d1-45af-8409-d407ae17db9b){: width="25%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/9e0de6ea-53c4-4d20-aacb-50c462f54088){: width="25%"}
+
 We observed that the thief's ability to avoid capture is highly dependent on the initial configuration of the agents on the grid. In some cases, the thief can avoid capture indefinitely, while in others, the police officers can successfully capture the thief by strategically minimizing the minimum distance between them and the thief while maintaining the even-distance constraint.
 
 ### 6.4. Comparison with random strategies
