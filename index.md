@@ -1,7 +1,8 @@
 ---
 title: Ryan Donghan Kwon
-date: 2023-05-16
+date: 2023-05-17T10:23:00+09:00
 tags: ["Ryan", "Donghan", "Kwon", "Resume", "ryankwon"]
+image: /assets/profile-arte-2022.JPG
 ---
 
 # 🧑‍💻 Ryan Donghan Kwon
@@ -108,6 +109,4 @@ Student Member, Software Engineering Society.
 
 ---
 
-Copyright 2023. Ryan Donghan Kwon. All rights reserved.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fryankwon.dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fryankwon.dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) *Copyright 2023. Ryan Donghan Kwon. All rights reserved.* 
