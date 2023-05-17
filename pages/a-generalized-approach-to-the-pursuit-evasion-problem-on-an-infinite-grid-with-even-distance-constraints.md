@@ -48,7 +48,7 @@ In this paper, we build upon the existing literature on pursuit-evasion problems
 
 ### 3.1. Taxicab geometry and distance
 
-Taxicab geometry, also known as Manhattan geometry, is a form of non-Euclidean geometry in which the distance between two points is the sum of the absolute differences of their coordinates[^krause2002]. For two points $$A(x1, y1)$$ and $$B(x2, y2)$$ on a grid, the taxicab distance is defined as:
+Taxicab geometry, also known as Manhattan geometry, is a form of non-Euclidean geometry in which the distance between two points is the sum of the absolute differences of their coordinates[^krause2002]. For two points $A(x1, y1)$ and $B(x2, y2)$ on a grid, the taxicab distance is defined as:
 
    $$D(A, B) = |x2 - x1| + |y2 - y1|$$
 
@@ -66,13 +66,13 @@ The objective of the game is to determine whether the thief can avoid being capt
 
 ### 3.3. Notation and assumptions
 
-Let T denote the position of the thief on the grid, and $$P_i$$ denote the position of the $$i$$-th police officer. We assume that the agents have perfect information about the positions of all other agents at all times, and that they can make optimal decisions based on this information.
+Let T denote the position of the thief on the grid, and $P_i$ denote the position of the $i$-th police officer. We assume that the agents have perfect information about the positions of all other agents at all times, and that they can make optimal decisions based on this information.
 
-We use the notation $$D(T, P_i)$$ to represent the taxicab distance between the thief and the $$i$$-th police officer, and $$D_{min}$$ to represent the minimum distance between the thief and any police officer:
+We use the notation $D(T, P_i)$ to represent the taxicab distance between the thief and the $i$-th police officer, and $D_{min}$ to represent the minimum distance between the thief and any police officer:
 
   $$D_{min} = min(D(T, P_1), D(T, P_2), ..., D(T, P_n))$$
 
-The game ends when the thief is captured (i.e., $$D_{min}$$ = 0) or when it is proven that the thief can avoid capture indefinitely.
+The game ends when the thief is captured (i.e., $D_{min}$ = 0) or when it is proven that the thief can avoid capture indefinitely.
 
 ## 4. Analysis of the Pursuit-Evasion Problem with Even-Distance Constraints
 
@@ -140,6 +140,63 @@ Our generalized solution extends the existing literature on pursuit-evasion prob
 
 We implemented the proposed algorithm for the pursuit-evasion problem with even-distance constraints using Python and the NetworkX library for graph manipulation. The simulation was run on a standard desktop computer with an Intel Core i5 processor and 8 GB of RAM.
 
+```python
+import networkx as nx
+import matplotlib.pyplot as plt
+
+def create_grid_graph(width, height):
+    G = nx.grid_2d_graph(width, height)
+    pos = {(x, y): (x, y) for x, y in G.nodes()}
+    return G, pos
+
+def even_taxicab_distance(p1, p2):
+    return abs(p1[0] - p2[0]) + abs(p1[1] - p2[1])
+
+def get_neighbors(G, node):
+    return [n for n in G.neighbors(node)]
+
+def move_agent(G, agent_pos, target_pos):
+    neighbors = get_neighbors(G, agent_pos)
+    min_distance = float('inf')
+    best_neighbor = None
+
+    for neighbor in neighbors:
+        distance = even_taxicab_distance(neighbor, target_pos)
+        if distance < min_distance and distance % 2 == 0:
+            min_distance = distance
+            best_neighbor = neighbor
+
+    if best_neighbor is not None:
+        return best_neighbor
+    else:
+        return agent_pos
+
+def run_simulation(G, pos, thief_pos, police_pos, max_iter=100):
+    for _ in range(max_iter):
+        plt.figure()
+        nx.draw(G, pos, with_labels=True)
+        nx.draw_networkx_nodes(G, pos, nodelist=[thief_pos], node_color='r')
+        nx.draw_networkx_nodes(G, pos, nodelist=[police_pos], node_color='b')
+        plt.show()
+
+        if even_taxicab_distance(thief_pos, police_pos) == 1:
+            print("Thief caught!")
+            break
+
+        thief_pos = move_agent(G, thief_pos, police_pos)
+        police_pos = move_agent(G, police_pos, thief_pos)
+    else:
+        print("Thief not caught in", max_iter, "iterations.")
+
+width, height = 10, 10
+G, pos = create_grid_graph(width, height)
+
+thief_pos = (1, 1)
+police_pos = (8, 8)
+
+run_simulation(G, pos, thief_pos, police_pos)
+```
+
 ### 6.2. Experimental setup
 
 To evaluate the performance of our algorithm, we conducted a series of experiments with varying numbers of police officers (n = 1, 2, 3, ...) and different initial configurations of the agents on the grid. For each experiment, we recorded the number of iterations required for the algorithm to either capture the thief or determine that the thief can avoid capture indefinitely.
@@ -169,6 +226,10 @@ While our algorithm provides a generalized solution to the pursuit-evasion probl
 3. Multi-objective optimization: The current algorithm focuses on minimizing the distance between the police officers and the thief while maintaining the even-distance constraint. Future work could consider multi-objective optimization, where the agents also aim to minimize other factors, such as the time required to capture the thief or the total distance traveled.
 4. Learning-based approaches: Instead of relying on perfect information about the positions of all agents, future work could explore learning-based approaches, where the agents learn to predict the movements of other agents and adapt their strategies accordingly.
 5. Real-world applications: Finally, our algorithm can be applied to real-world problems, such as security and surveillance, by adapting it to specific problem domains and incorporating additional constraints and objectives relevant to the application.
+
+## Acknowledgement
+
+This work was supported by the KISTI National Supercomputing Center with supercomputing resources.
 
 ## References
 
