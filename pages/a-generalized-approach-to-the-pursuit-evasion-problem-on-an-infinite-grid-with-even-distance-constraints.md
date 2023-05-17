@@ -155,6 +155,22 @@ def even_taxicab_distance(p1, p2):
 def get_neighbors(G, node):
     return [n for n in G.neighbors(node)]
 
+def move_thief(G, thief_pos, police_positions):
+    neighbors = get_neighbors(G, thief_pos)
+    max_min_distance = float('-inf')
+    best_neighbor = None
+
+    for neighbor in neighbors:
+        min_distance = min([even_taxicab_distance(neighbor, police_pos) for police_pos in police_positions])
+        if min_distance > max_min_distance:
+            max_min_distance = min_distance
+            best_neighbor = neighbor
+
+    return best_neighbor
+
+def move_police(G, police_pos, thief_pos):
+    return move_agent(G, police_pos, thief_pos)
+
 def move_agent(G, agent_pos, target_pos):
     neighbors = get_neighbors(G, agent_pos)
     min_distance = float('inf')
@@ -162,40 +178,39 @@ def move_agent(G, agent_pos, target_pos):
 
     for neighbor in neighbors:
         distance = even_taxicab_distance(neighbor, target_pos)
-        if distance < min_distance and distance % 2 == 0:
+        if distance < min_distance:
             min_distance = distance
             best_neighbor = neighbor
 
-    if best_neighbor is not None:
-        return best_neighbor
-    else:
-        return agent_pos
+    return best_neighbor
 
-def run_simulation(G, pos, thief_pos, police_pos, max_iter=100):
+def run_simulation(G, pos, thief_pos, police_positions, max_iter=100):
     for _ in range(max_iter):
         plt.figure()
         nx.draw(G, pos, with_labels=True)
         nx.draw_networkx_nodes(G, pos, nodelist=[thief_pos], node_color='r')
-        nx.draw_networkx_nodes(G, pos, nodelist=[police_pos], node_color='b')
+        nx.draw_networkx_nodes(G, pos, nodelist=police_positions, node_color='b')
         plt.show()
 
-        if even_taxicab_distance(thief_pos, police_pos) == 1:
+        if any([even_taxicab_distance(thief_pos, police_pos) == 1 for police_pos in police_positions]):
             print("Thief caught!")
             break
 
-        thief_pos = move_agent(G, thief_pos, police_pos)
-        police_pos = move_agent(G, police_pos, thief_pos)
+        thief_pos = move_thief(G, thief_pos, police_positions)
+        police_positions = [move_police(G, police_pos, thief_pos) for police_pos in police_positions]
     else:
         print("Thief not caught in", max_iter, "iterations.")
 
 width, height = 10, 10
 G, pos = create_grid_graph(width, height)
 
-thief_pos = (1, 1)
-police_pos = (8, 8)
+thief_pos = (width // 2, height // 2)
+police_positions = [(0, 0), (0, height - 1), (width - 1, 0), (width - 1, height - 1)]
 
-run_simulation(G, pos, thief_pos, police_pos)
+run_simulation(G, pos, thief_pos, police_positions)
 ```
+
+> Faulty code. Needs to be fixed.
 
 ### 6.2. Experimental setup
 
