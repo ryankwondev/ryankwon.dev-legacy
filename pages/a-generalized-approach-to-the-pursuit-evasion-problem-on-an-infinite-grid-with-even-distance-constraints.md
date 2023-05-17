@@ -205,12 +205,12 @@ To evaluate the performance of our algorithm, we conducted a series of experimen
 
 The simulation results show that our algorithm is effective in determining the optimal strategies for both the thief and the police officers in the pursuit-evasion problem with even-distance constraints. The number of iterations required for the algorithm to reach a conclusion depends on the complexity of the problem, with more police officers generally requiring more iterations. However, in most cases, the algorithm converges within a reasonable number of iterations.
 
-![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/074fb5bc-1016-4a6d-a0e3-af98c6c24fa5){: width="33%"}
-![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/ab51f3a9-95f8-4356-825a-8c55774dec5e){: width="33%"}
-![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/170c2fe8-1f9d-4aad-80a5-3cde0b890bc2){: width="33%"}\
-![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/2a4266ef-1dfc-4f64-bdbd-80ed12f7e5c3){: width="33%"}
-![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/a624262e-131b-4893-9169-4d144c334178){: width="33%"}
-![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/1f4dfa14-8282-4ebf-ba6e-4f4c85a2190d){: width="33%"}\
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/074fb5bc-1016-4a6d-a0e3-af98c6c24fa5){: width="30%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/ab51f3a9-95f8-4356-825a-8c55774dec5e){: width="30%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/170c2fe8-1f9d-4aad-80a5-3cde0b890bc2){: width="30%"}\
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/2a4266ef-1dfc-4f64-bdbd-80ed12f7e5c3){: width="30%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/a624262e-131b-4893-9169-4d144c334178){: width="30%"}
+![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/1f4dfa14-8282-4ebf-ba6e-4f4c85a2190d){: width="30%"}\
 ![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/27cd8fb2-2dc6-4bce-bb57-600137716c51){: width="45%"}
 ![image](https://github.com/ryankwondev/ryankwon.dev/assets/93381265/5d85ee0d-da4d-48b7-ac4e-f23356fe7dfc){: width="45%"}
 
