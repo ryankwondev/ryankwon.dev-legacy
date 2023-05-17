@@ -138,7 +138,7 @@ Our generalized solution extends the existing literature on pursuit-evasion prob
 
 ### 6.1. Implementation details
 
-We implemented the proposed algorithm for the pursuit-evasion problem with even-distance constraints using Python and the NetworkX library for graph manipulation. The simulation was run on a standard desktop computer with an Intel Core i5 processor and 8 GB of RAM.
+We implemented the proposed algorithm for the pursuit-evasion problem with even-distance constraints using Python and the NetworkX library for graph manipulation. The simulation was run with the Python 3.9 runtime on Jupyter Notebook at the KISTI National Supercomputing Center.
 
 ```python
 import networkx as nx
