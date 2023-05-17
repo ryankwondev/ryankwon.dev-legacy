@@ -6,8 +6,8 @@ author: ["Ryan Donghan Kwon", "Mingeon Kim"]
 
 # A Methodology for Utilizing a Mix of REST and GraphQL APIs
 
-**Author** - [Ryan Donghan Kwon](ryankwon@ieee.org), *IEEE*;
-[Mingeon Kim](issac4892@gmail.com), *Puhung High School*, 
+**Author** - [Ryan Donghan Kwon](mailto:ryankwon@ieee.org), *IEEE*;
+[Mingeon Kim](mailto:issac4892@gmail.com), *Puhung High School*, 
 
 **Abstract** - The increasing complexity of data requirements in modern web applications has led to the rise of different API design paradigms, notably Representational State Transfer (REST) and GraphQL. While each has its strengths and weaknesses, the choice between them is often presented as a binary one. This paper proposes a methodology for effectively integrating both REST and GraphQL APIs in a single system based on key factors including use case, performance, complexity, and interoperability. The methodology is illustrated and validated through two industry case studies, GitHub and Shopify, and a hypothetical experiment. The results suggest that a carefully considered mix of REST and GraphQL can yield more efficient and flexible APIs. However, these findings require further research for validation across a broader range of contexts. The study concludes that by understanding the strengths and weaknesses of both REST and GraphQL, developers can leverage both technologies to create more robust APIs.
 
