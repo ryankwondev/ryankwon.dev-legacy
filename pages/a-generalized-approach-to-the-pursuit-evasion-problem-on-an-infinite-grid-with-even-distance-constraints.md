@@ -66,13 +66,13 @@ The objective of the game is to determine whether the thief can avoid being capt
 
 ### 3.3. Notation and assumptions
 
-Let T denote the position of the thief on the grid, and \[ P_i \] denote the position of the $$i$$-th police officer. We assume that the agents have perfect information about the positions of all other agents at all times, and that they can make optimal decisions based on this information.
+Let T denote the position of the thief on the grid, and \\[ P_i \\] denote the position of the $$i$$-th police officer. We assume that the agents have perfect information about the positions of all other agents at all times, and that they can make optimal decisions based on this information.
 
 We use the notation $$D(T, P_i)$$ to represent the taxicab distance between the thief and the $$i$$-th police officer, and $$D_{min}$$ to represent the minimum distance between the thief and any police officer:
 
   $$D_{min} = min(D(T, P_1), D(T, P_2), ..., D(T, P_n))$$
 
-The game ends when the thief is captured (i.e., $$D_{min}$$ = 0) or when it is proven that the thief can avoid capture indefinitely.
+The game ends when the thief is captured (i.e., $$D_{min} = 0$$) or when it is proven that the thief can avoid capture indefinitely.
 
 ## 4. Analysis of the Pursuit-Evasion Problem with Even-Distance Constraints
 
