@@ -50,7 +50,7 @@ In this paper, we build upon the existing literature on pursuit-evasion problems
 
 Taxicab geometry, also known as Manhattan geometry, is a form of non-Euclidean geometry in which the distance between two points is the sum of the absolute differences of their coordinates[^krause2002]. For two points \\( A(x1, y1) \\) and \\( B(x2, y2) \\) on a grid, the taxicab distance is defined as:
 
-   \\[ (A, B) = |x2 - x1| + |y2 - y1| \\]
+   $$D(A, B) = |x2 - x1| + |y2 - y1|$$
 
 This distance metric is particularly useful for modeling the movements of agents on a grid, as it naturally captures the constraints imposed by the grid structure.
 
@@ -70,7 +70,7 @@ Let T denote the position of the thief on the grid, and \\( P_i \\) denote the p
 
 We use the notation \\(D(T, P_i)\\) to represent the taxicab distance between the thief and the \\(i\\)-th police officer, and \\(D_{min}\\) to represent the minimum distance between the thief and any police officer:
 
-  \\[D_{min} = min(D(T, P_1), D(T, P_2), ..., D(T, P_n))\\]
+  $$D_{min} = min(D(T, P_1), D(T, P_2), ..., D(T, P_n))$$
 
 The game ends when the thief is captured (i.e., \\(D_{min} = 0\\)) or when it is proven that the thief can avoid capture indefinitely.
 
