@@ -48,7 +48,7 @@ https://icombine.net/knowledge-base/skill-levels
 **[Institute of Electrical and Electronics Engineers](https://www.ieee.org) (2023-present)**
 *Student Member, [Computer Society](https://computer.org/), [Seoul Section](https://site.ieee.org/seoul/)*.
 
-**[Python Software Foundation](https://www.python.org/psf-landing/) (2022-present)***
+**[Python Software Foundation](https://www.python.org/psf-landing/) (2022-present)**
 *Contributing Member (Voting Memberships)*.
 
 **[Korean Institute of Information Scientists and Engineers](https://www.kiise.or.kr) (2022-present)**
