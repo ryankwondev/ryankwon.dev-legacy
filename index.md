@@ -45,14 +45,14 @@ https://icombine.net/knowledge-base/skill-levels
 
 ## 👨‍🔬 Memberships
 
-***[Institute of Electrical and Electronics Engineers](https://www.ieee.org) (2023-present)***
-Student Member, [Computer Society](https://computer.org/), [Seoul Section](https://site.ieee.org/seoul/).
+**[Institute of Electrical and Electronics Engineers](https://www.ieee.org) (2023-present)**
+*Student Member, [Computer Society](https://computer.org/), [Seoul Section](https://site.ieee.org/seoul/)*.
 
-***[Python Software Foundation](https://www.python.org/psf-landing/) (2022-present)***
-Contributing Member (Voting Memberships).
+**[Python Software Foundation](https://www.python.org/psf-landing/) (2022-present)***
+*Contributing Member (Voting Memberships)*.
 
-***[Korean Institute of Information Scientists and Engineers](https://www.kiise.or.kr) (2022-present)***
-Student Member, Software Engineering Society.
+**[Korean Institute of Information Scientists and Engineers](https://www.kiise.or.kr) (2022-present)**
+*Student Member, [Software Engineering Society](http://sigsoft.or.kr/)*.
 
 ## 📑 Publications
 
