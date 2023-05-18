@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ryan Donghan Kwon</title>
+  <!-- Tailwind CSS CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    .fullscreen-bg {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      overflow: hidden;
+      z-index: -100;
+    }
+
+    .fullscreen-bg__video {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: -50;
+    }
+
+    .glass-button {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+/*      border: 1px solid rgba(255, 255, 255, 0.3);*/
+      transition: all 0.2s ease-in-out;
+    }
+
+    .glass-button:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+  </style>
+</head>
+<body class="flex flex-col items-center justify-center h-screen text-white text-center">
+  <div class="fullscreen-bg">
+    <img src="./assets/background.jpg" class="fullscreen-bg__video" />
+  </div>
+  <div class="overlay"></div>
+  <div class="z-10">
+    <h1 class="text-5xl font-bold mb-2">Ryan Donghan Kwon</h1>
+    <blockquote class="italic text-xl mb-6">"No challenge useless"</blockquote>
+    <div>
+      <a href="/resume" class="mx-3 py-2 px-4 font-bold rounded glass-button">Resume</a>
+      <a href="/pages" class="mx-3 py-2 px-4 font-bold rounded glass-button">Posts</a>
+      <a href="mailto:me@ryankwon.dev" class="mx-3 py-2 px-4 font-bold rounded glass-button">Contact</a>
+    </div>
+    <h1 class="text-5xl font-bold mb-2 text-transparent">|</h1>
+    <h1 class="text-5xl font-bold mb-2 text-transparent">|</h1>
+  </div>
+  <div class="absolute bottom-2 text-xs text-gray-500">
+    Copyright 2023. Ryan Donghan Kwon. All rights reserved.
+  </div>
+</body>
+</html>
