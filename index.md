@@ -12,10 +12,6 @@ image: /assets/profile-arte-2022.JPG
 - School: [has_22017@hana.hs.kr](mailto:has_22017@hana.hs.kr)
 - Work: [ryankwon@algorix.io](mailto:ryankwon@algorix.io)
 
-[Click here to navigate to **Posts & Preprints**](pages)
-
-[Click here to download this Resume (Updated 2023.05.18.)](Ryan_Kwon_-_Resume(CV).pdf)
-
 ## 🏫 Education
 
 ### [Hana Academy Seoul](https://eng.hana.hs.kr) (2022.03-present)
