@@ -56,9 +56,9 @@ https://icombine.net/knowledge-base/skill-levels
 
 ## 📑 Publications
 
-<!--**Adaptive Partition Sort: Developing an Efficient Sorting Algorithm by Combining the Strengths of Quick Sort and Merge Sort,**\
+**Adaptive Partition Sort: Developing an Efficient Sorting Algorithm by Combining the Strengths of Quick Sort and Merge Sort,**\
   Ryan Donghan Kwon and Do Hyun Lim,
-  Proceedings of the KIISE Korea Computer Congress (2023). -->
+  Proceedings of the KIISE Korea Computer Congress (2023).
 
 **[Lightweight Syntax Structure for Describing Data to Transfer over Internet of Things (IoT) Devices](http://sigsoft.or.kr/kcse2023/),**\
   Ryan Donghan Kwon, Jun Seob Shin and Do Hyun Lim,
