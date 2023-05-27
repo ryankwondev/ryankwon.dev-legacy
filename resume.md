@@ -26,7 +26,7 @@ image: /assets/profile-arte-2022.JPG
 ## 💼 Employment
 
 ### Algorix (2022.06-present)
-***Working as Founder, Backend Engineer.*** Responsible for business management and operations, backend development of web applications via FastAPI, PostgreSQL, etc. Building and operating infrastructure with Amazon Web Services.
+***Working as Director, Backend Engineer.*** Responsible for business management and operations, backend development of web applications via FastAPI, PostgreSQL, etc. Building and operating infrastructure with Amazon Web Services.
 
 <!--
 - Amazon Web Service, Python FastAPI, React.js, etc.
