@@ -74,6 +74,9 @@ https://icombine.net/knowledge-base/skill-levels
 
 ## 💡 Experiences & Projects
 
+### Medical Big Data Lab., [School of Medicine](http://www.skkumed.ac.kr/eng/), [Sungkyunkwan University](https://www.skku.edu/eng/). (2023-present)
+Diagnosis through Chest X-ray Imaging of COVID-19 and Pneumonia Enhancing Accuracy via Image Registration and Advanced CNN Models
+
 ### Experiences
 - [SUNY Korea Experience Day (2023.05)](https://apply.sunykorea.ac.kr/portal/experience_day)
 - [MODUPOP: ML + QC (2023.04)](https://festa.io/events/3325)
